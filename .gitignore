@@ -4,3 +4,4 @@ fonts/
 out/
 __pycache__/
 tmp.wav
+*.log
