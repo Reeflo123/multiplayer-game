@@ -1,7 +1,10 @@
 {
  "theme": "steel",
  "topic": "win the first hour of the morning",
- "hook": ["YOUR FIRST HOUR", "decides who you become"],
+ "hook": [
+  "YOUR FIRST HOUR",
+  "decides who you become"
+ ],
  "lines": [
   "#The first hour of your day is a *vote.*",
   "For the person you're trying to *become.*",
@@ -15,16 +18,35 @@
   "Move your body until your mind *wakes up.*",
   "Write down the *one* thing that matters today.",
   "And do it before the world gets a *vote.*",
+  "The phone can *wait.*",
+  "Your future can't.",
+  "Give the first hour to *you.*",
   "#It's not about waking up at five in the *morning.*",
   "It's about waking up *on purpose.*",
   "Every morning you win, your confidence gets a little *louder.*",
   "Every morning you lose, your excuses get more *comfortable.*",
   "#Tomorrow morning, you get another *vote.*",
+  "Win the morning, and the rest of the day *follows.*",
   "Make it *count.*",
   "Starting *now.*"
  ],
- "end": ["WIN THE", "MORNING.", "Follow for your daily push at 7am & 7pm."],
- "cover": {"lines": ["WIN", "THE", "MORNING."], "accent_lines": [2], "sub": "Your first hour decides your day", "bg_time": 25},
+ "end": [
+  "WIN THE",
+  "MORNING.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "WIN",
+   "THE",
+   "MORNING."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Your first hour decides your day",
+  "bg_time": 25
+ },
  "post": {
   "title": "Your First Hour Decides Who You Become",
   "caption": "Win the morning, win the day. ☀️ Save this and watch it tomorrow at 7am.",

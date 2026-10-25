@@ -1,0 +1,53 @@
+{
+ "theme": "dawn",
+ "topic": "your past doesn't decide your future",
+ "hook": [
+  "YOUR PAST",
+  "is not your future"
+ ],
+ "lines": [
+  "#Where you started doesn't decide where you *finish.*",
+  "Not your family. Not your *mistakes.*",
+  "Not the years you *wasted.*",
+  "#Your past is a *lesson.* Not a life sentence.",
+  "Some of the strongest people you'll meet started with *nothing.*",
+  "No support. No plan. No *example* to follow.",
+  "#They just decided the story would *change* with them.",
+  "They didn't have a head start. They had a *decision.*",
+  "They decided they were done being *defined* by yesterday.",
+  "And it *did.*",
+  "#You can't go back and change the *beginning.*",
+  "But you can start *right* now, and change the ending.",
+  "Every single day is a new *page.*",
+  "So stop rereading the old *chapters.*",
+  "The mistakes you made taught you something *valuable.*",
+  "The pain gave you *depth.*",
+  "Use it. Don't *live* in it.",
+  "Stop letting people who knew the old you *define* you.",
+  "#You are allowed to become someone *new.*",
+  "Starting *tonight.*"
+ ],
+ "end": [
+  "WRITE A",
+  "NEW ENDING.",
+  "Send this to someone who needs a fresh start."
+ ],
+ "cover": {
+  "lines": [
+   "YOUR PAST",
+   "IS NOT YOUR",
+   "FUTURE."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You can still change the ending",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "Your Past Doesn't Decide Your Future",
+  "caption": "You can't change the beginning. You can change the ending. 🌅",
+  "hashtags": "#freshstart #motivation #newbeginnings #mindset #healing",
+  "first_comment": "Type 'NEW CHAPTER' if you're starting over 👇"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "theme": "steel",
+ "topic": "the excuse you keep repeating",
+ "hook": [
+  "WHAT'S YOUR EXCUSE?",
+  "be honest with yourself"
+ ],
+ "lines": [
+  "#What's the excuse you keep *repeating?*",
+  "I don't have *time.*",
+  "I don't have the *money.*",
+  "I'll start *Monday.*",
+  "I'm too old. I'm too *young.*",
+  "It's not the right *time.*",
+  "#Here's the problem with *excuses.*",
+  "They're always *believable.*",
+  "That's what makes them so *dangerous.*",
+  "#You don't have time? You found time to *scroll.*",
+  "Your mind is very good at protecting you from *discomfort.*",
+  "And very bad at protecting you from *regret.*",
+  "No money? Start with what's *free.*",
+  "Monday? Monday has been coming for *years.*",
+  "#Excuses don't protect you. They *trap* you.",
+  "Every one of them is a door you closed on *yourself.*",
+  "So today, catch yourself in the *middle* of one.",
+  "One year from now, the excuse will still be *there.*",
+  "The only question is whether *you* will be.",
+  "Same place. Same story. Or somewhere *new.*",
+  "And do the thing *anyway.*",
+  "Just once. Then *again.*",
+  "#That's how you break the *pattern.*"
+ ],
+ "end": [
+  "NO MORE",
+  "EXCUSES.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "NO",
+   "MORE",
+   "EXCUSES."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Be honest with yourself",
+  "bg_time": 26
+ },
+ "post": {
+  "title": "What's the Excuse You Keep Repeating?",
+  "caption": "Excuses are always believable. That's what makes them dangerous. ⚡",
+  "hashtags": "#noexcuses #discipline #motivation #mindset #selfimprovement",
+  "first_comment": "Drop the excuse you're done with today 👇"
+ }
+}

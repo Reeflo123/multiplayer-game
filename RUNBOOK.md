@@ -8,7 +8,7 @@ AI-content labels per network are set in settings.json (ai_labels).
 ## Spec format (specs/YYYY-MM-DD.json)
 - theme: "gold" (money), "dawn" (life / hope / perseverance), "steel" (discipline / self-improvement)
 - hook: [BIG TOP LINE in caps, small italic subline] — shown for the first 3.6 s; must stop the scroll
-- lines: 18-24 short spoken lines, ~55-62 s of speech total, so the FINAL video is 61-70 s (TikTok Creator Rewards only pays for videos over 1 minute). `*word*` = accent colour + zoom (1-2 per line max, usually the last key word).
+- lines: 20-24 spoken lines, ~57-63 s of speech total, so the FINAL video is 61-70 s (TikTok Creator Rewards only pays for videos over 1 minute). `*word*` = accent colour + zoom (1-2 per line max, usually the last key word).
   Prefix `#` = impact hit + flash (put on 3-5 turning-point lines, incl. the first line).
 - end: [line 1 white, line 2 accent, small CTA] — CTA drives saves/shares/comments
 - cover: {lines: 2-3 short caps lines, accent_lines: [index], sub: short italic line, bg_time: 15-30}
@@ -21,6 +21,7 @@ Money videos: habits and mindset only — no promises of returns, no specific in
 No medical claims, nothing political, nothing shaming or hateful. Each topic must differ from every topic in history.json.
 
 ## Build
+First measure: `python3 vo.py <id>` prints 'speech ends X'. X must be 57-65 (final video = X + ~4.9 s). Too short: add lines; too long: cut. Only then run build.sh.
 `./build.sh YYYY-MM-DD` → out/<id>_final.mp4 (≈30-40 MB) and out/<id>_cover.jpg
 
 ## Hosting

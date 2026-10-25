@@ -1,0 +1,56 @@
+{
+ "theme": "gold",
+ "topic": "know where every dollar goes",
+ "hook": [
+  "WHERE DID IT GO?",
+  "your money is leaking"
+ ],
+ "lines": [
+  "#Where did your money go last *month?*",
+  "If you can't answer that, you're not alone. But you *are* in trouble.",
+  "#Money you don't track *disappears.*",
+  "Not in one big mistake. In a hundred *small* ones.",
+  "Subscriptions you forgot. Coffees. Late-night *deliveries.*",
+  "Each one feels like *nothing.*",
+  "Together, they're a *fortune.*",
+  "Ten here. Twenty there. A little *more* on the weekend.",
+  "And suddenly the month is gone and you don't know *where.*",
+  "#Rich people know where every dollar *goes.*",
+  "Not because they're obsessed. Because they're in *control.*",
+  "So today, open your bank app. Look at last *month.*",
+  "Every single *line.*",
+  "Write down your three biggest *leaks.*",
+  "Cancel what you don't *use.*",
+  "Set a limit for what you *love.*",
+  "It might hurt. *Good.*",
+  "#Awareness is where wealth *begins.*",
+  "You can't fix a leak you refuse to *look* at.",
+  "The goal isn't to stop *living.*",
+  "It's to spend on purpose, not on *autopilot.*",
+  "Find it. Plug it. Send that money to *work.*",
+  "#Give every dollar a *job.*"
+ ],
+ "end": [
+  "GIVE EVERY",
+  "DOLLAR A JOB.",
+  "Save this and check your account today."
+ ],
+ "cover": {
+  "lines": [
+   "YOUR MONEY",
+   "IS",
+   "LEAKING."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Here's how to find it",
+  "bg_time": 16
+ },
+ "post": {
+  "title": "Your Money Is Leaking. Here's How to Find It.",
+  "caption": "You can't fix a leak you refuse to look at. 💰 Check last month today.",
+  "hashtags": "#budgeting #moneymindset #personalfinance #savemoney #financialfreedom",
+  "first_comment": "What's the sneakiest leak in your budget? 👇"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "theme": "steel",
+ "topic": "do it tired",
+ "hook": [
+  "DO IT TIRED",
+  "this is where you separate"
+ ],
+ "lines": [
+  "#You're tired. I *know.*",
+  "Everybody is *tired.*",
+  "The people who win are tired *too.*",
+  "Tired of the alarm. Tired of the *bills.*",
+  "Tired of trying and not seeing *results.*",
+  "#They just stopped using it as an *excuse.*",
+  "Tired is not a reason to *quit.*",
+  "It's a reason to go a little *slower.*",
+  "Do the short workout. Read *two* pages. Make one call.",
+  "#A tired rep still *counts.*",
+  "Twenty minutes instead of an *hour.*",
+  "Half the plan is still better than *zero.*",
+  "In fact, it counts *more.*",
+  "Because anyone can show up when they feel *great.*",
+  "Showing up tired is what builds *character.*",
+  "#This is where you *separate* from everyone else.",
+  "Not on the good days. On the *hard* ones.",
+  "Nobody remembers who felt good on the easy *days.*",
+  "They remember who *showed up.*",
+  "Be the one who shows *up.*",
+  "So don't wait until you feel *rested.*",
+  "Do it tired. Do it *slow.*",
+  "#But do it *today.*"
+ ],
+ "end": [
+  "DO IT",
+  "TIRED.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "DO",
+   "IT",
+   "TIRED."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "This is where winners separate",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "Do It Tired. This Is Where Winners Separate.",
+  "caption": "A tired rep still counts. In fact it counts more. 💪",
+  "hashtags": "#discipline #nevergiveup #motivation #grind #mindset",
+  "first_comment": "Tag someone who shows up even when they're tired 👇"
+ }
+}

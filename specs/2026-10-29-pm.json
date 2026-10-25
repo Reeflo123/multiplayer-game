@@ -1,0 +1,55 @@
+{
+ "theme": "dawn",
+ "topic": "stop waiting for permission",
+ "hook": [
+  "STOP WAITING",
+  "nobody is going to pick you"
+ ],
+ "lines": [
+  "#You are waiting for *permission.*",
+  "For someone to say you're *ready.*",
+  "For the perfect moment. The perfect *plan.*",
+  "#Here's the truth. Nobody is coming to *pick* you.",
+  "Not because you're not good *enough.*",
+  "But because they're busy waiting *too.*",
+  "Waiting for the right job. The right *partner.*",
+  "The right *time.*",
+  "Meanwhile, years keep *passing.*",
+  "#The people living the life you want didn't get *permission.*",
+  "They just *started.*",
+  "Messy. Unsure. Scared out of their *minds.*",
+  "They learned on the way. They *adjusted* on the way.",
+  "#Ready is not a feeling you *wait* for.",
+  "It's something you *become*, by doing.",
+  "So stop asking if you're allowed to *dream* that big.",
+  "Your first try will be *bad.*",
+  "Your second will be *better.*",
+  "Your tenth will surprise *everyone.*",
+  "You *are.*",
+  "#Consider this your *permission.*",
+  "Now go."
+ ],
+ "end": [
+  "YOU ARE",
+  "READY.",
+  "Send this to someone who keeps waiting."
+ ],
+ "cover": {
+  "lines": [
+   "STOP",
+   "WAITING FOR",
+   "PERMISSION."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Nobody is going to pick you",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "Stop Waiting for Permission to Start",
+  "caption": "Ready isn't a feeling you wait for. It's something you become. 🌅 Consider this your permission.",
+  "hashtags": "#motivation #startnow #mindset #selfbelief #dreambig",
+  "first_comment": "What have you been waiting to start? 👇"
+ }
+}

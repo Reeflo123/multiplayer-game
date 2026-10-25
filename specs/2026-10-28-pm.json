@@ -1,0 +1,53 @@
+{
+ "theme": "dawn",
+ "topic": "slow progress is still progress",
+ "hook": [
+  "IF YOU FEEL SLOW",
+  "watch this before you quit"
+ ],
+ "lines": [
+  "#Slow progress is still *progress.*",
+  "Even if nobody *sees* it.",
+  "Even if it feels like you're *standing still.*",
+  "#Bamboo spends years growing *roots.*",
+  "Nothing above the ground. Nothing to *show.*",
+  "And then, almost overnight, it *shoots* up.",
+  "#You might be in your *root* years right now.",
+  "The years where you learn. Where you *fail.*",
+  "Where you build things nobody *claps* for.",
+  "The workouts that didn't show *results.*",
+  "The savings that still look *small.*",
+  "It doesn't feel like *winning.*",
+  "But it's exactly what winning looks like *early.*",
+  "#So stop comparing your chapter one to someone's chapter *twenty.*",
+  "Your timeline is *yours.*",
+  "Keep watering it. Keep *showing up.*",
+  "Some days you'll take a step *back.*",
+  "That's fine. Just don't *stay* there.",
+  "One day people will call it overnight *success.*",
+  "#Only you will know about the *roots.*"
+ ],
+ "end": [
+  "TRUST THE",
+  "PROCESS.",
+  "Send this to someone who feels stuck."
+ ],
+ "cover": {
+  "lines": [
+   "SLOW",
+   "IS STILL",
+   "PROGRESS."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Watch this before you quit",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "If You Feel Slow, Watch This Before You Quit",
+  "caption": "You might be in your root years. 🌱 Send this to someone who needs it.",
+  "hashtags": "#keepgoing #motivation #growth #mindset #patience",
+  "first_comment": "What are you building right now that nobody sees yet? 👇"
+ }
+}

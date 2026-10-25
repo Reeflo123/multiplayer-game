@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "be proud of how far you've come",
+ "hook": [
+  "BEFORE THE WEEK ENDS",
+  "look how far you came"
+ ],
+ "lines": [
+  "#Before this week ends, I want you to look *back.*",
+  "Not at what you didn't *do.*",
+  "At how far you've already *come.*",
+  "#A year ago, you were fighting battles you've already *won.*",
+  "Problems that kept you awake are *behind* you now.",
+  "You survived days you thought would *break* you.",
+  "#You're still *here.*",
+  "Still trying. Still *growing.*",
+  "That's not small. That's *everything.*",
+  "Maybe you didn't hit every goal this *week.*",
+  "Maybe some days were a *mess.*",
+  "You still got *up.*",
+  "We're so busy chasing the next goal, we never *celebrate.*",
+  "So tonight, give yourself some *credit.*",
+  "Not because you're *finished.*",
+  "Because you're *proving* something.",
+  "Write down three things you did *right* this week.",
+  "Read them out *loud.*",
+  "Let it sink *in.*",
+  "#The person you were would be *proud* of you.",
+  "Now rest. Next week, we go *again.*"
+ ],
+ "end": [
+  "BE PROUD",
+  "OF YOU.",
+  "Send this to someone who's come a long way."
+ ],
+ "cover": {
+  "lines": [
+   "LOOK HOW",
+   "FAR YOU",
+   "CAME."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Before the week ends, watch this",
+  "bg_time": 36
+ },
+ "post": {
+  "title": "Before This Week Ends, Look How Far You Came",
+  "caption": "You survived days you thought would break you. Be proud. 🌅",
+  "hashtags": "#selflove #motivation #proud #growth #keepgoing",
+  "first_comment": "Name one thing you're proud of this week 👇"
+ }
+}
