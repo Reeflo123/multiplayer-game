@@ -6,13 +6,14 @@ Post time: 19:00 Europe/Lisbon, every day.
 ## Spec format (specs/YYYY-MM-DD.json)
 - theme: "gold" (money), "dawn" (life / hope / perseverance), "steel" (discipline / self-improvement)
 - hook: [BIG TOP LINE in caps, small italic subline] — shown for the first 3.6 s; must stop the scroll
-- lines: 9-14 short spoken lines, ~30-45 s of speech total. `*word*` = accent colour + zoom (1-2 per line max, usually the last key word).
+- lines: 18-24 short spoken lines, ~55-62 s of speech total, so the FINAL video is 61-70 s (TikTok Creator Rewards only pays for videos over 1 minute). `*word*` = accent colour + zoom (1-2 per line max, usually the last key word).
   Prefix `#` = impact hit + flash (put on 3-5 turning-point lines, incl. the first line).
 - end: [line 1 white, line 2 accent, small CTA] — CTA drives saves/shares/comments
 - cover: {lines: 2-3 short caps lines, accent_lines: [index], sub: short italic line, bg_time: 15-30}
 - post: {title (YouTube, < 70 chars), caption (1-2 lines + emoji), hashtags (5), first_comment (question to drive comments)}
 
 ## Writing rules
+Goal: views and platform payouts (no products, no links in bio). Retention is everything: hook in the first second, a new idea or turn every 3-4 lines, build to a strong final line.
 Original lines only (no quotes from famous people, no lyrics, no real names). Punchy, second-person, one idea per video.
 Money videos: habits and mindset only — no promises of returns, no specific investment/crypto/stock tips, no get-rich-quick.
 No medical claims, nothing political, nothing shaming or hateful. Each topic must differ from every topic in history.json.
