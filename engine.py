@@ -297,7 +297,7 @@ def main(vid):
             overlay(im, endA, W / 2, H * .42, 1 + .25 * (1 - eout(lt / .25)), ease(lt / .1) * out)
             overlay(im, endB, W / 2, H * .42 + 165, 1 + .25 * (1 - eout((lt - .35) / .25)), ease((lt - .35) / .1) * out)
             overlay(im, endC, W / 2, H * .42 + 330, 1.0, ease((lt - 1.1) / .5) * out)
-        if spec["theme"] == "steel":  # day counter
+        if spec.get("day_counter"):  # optional day counter (e.g. 365-day videos)
             day = 1 + int(364 * ease(min(1, t / (end_start - 0.3))))
             if not hasattr(main, "_fc"): main._fc = ImageFont.truetype(ANTON, 54)
             ctr = text_block([(f"DAY {day}", main._fc, th["accent"] if day == 365 else (220, 220, 225), 4)])

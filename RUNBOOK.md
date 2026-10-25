@@ -12,6 +12,7 @@ AI-content labels per network are set in settings.json (ai_labels).
   Prefix `#` = impact hit + flash (put on 3-5 turning-point lines, incl. the first line).
 - end: [line 1 white, line 2 accent, small CTA] — CTA drives saves/shares/comments
 - cover: {lines: 2-3 short caps lines, accent_lines: [index], sub: short italic line, bg_time: 15-30}
+- day_counter: optional true — shows a DAY 1→365 counter at the top; only for videos about a year/365-day journey.
 - post: {title (YouTube, < 70 chars), caption (1-2 lines + emoji), hashtags (5), first_comment (question to drive comments)}
 
 ## Writing rules
