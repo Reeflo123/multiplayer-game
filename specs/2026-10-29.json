@@ -1,0 +1,25 @@
+{
+ "theme": "gold",
+ "topic": "pay yourself first",
+ "hook": ["THE RICH DO THIS", "before they pay anyone else"],
+ "lines": [
+  "#The first bill you pay every month should be to *yourself.*",
+  "Not rent. Not your phone. Not your *wants.*",
+  "*You.*",
+  "#Most people save whatever is left after spending.",
+  "That's why most people have *nothing* left.",
+  "Flip it. Save first. Spend what's *left.*",
+  "#Even ten percent changes *everything.*",
+  "Because money you never see, is money you never *miss.*",
+  "Do it for one year, and you won't recognise your *account.*",
+  "#Pay yourself first. *Every* month."
+ ],
+ "end": ["PAY YOURSELF", "FIRST.", "Save this. Start on your next payday."],
+ "cover": {"lines": ["PAY", "YOURSELF", "FIRST."], "accent_lines": [2], "sub": "The habit behind every fortune", "bg_time": 20},
+ "post": {
+  "title": "Pay Yourself First. Every Single Month.",
+  "caption": "Money you never see is money you never miss. 💰 Save this and start on your next payday.",
+  "hashtags": "#moneymindset #personalfinance #savingmoney #financialfreedom #motivation",
+  "first_comment": "What percentage are you paying yourself first? 👇"
+ }
+}

@@ -1,0 +1,6 @@
+kokoro.onnx
+voices.bin
+fonts/
+out/
+__pycache__/
+tmp.wav
