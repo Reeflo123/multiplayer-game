@@ -1,7 +1,9 @@
 # Daily motivation shorts — runbook
 
 Account: Metricool brand "Regulile Comunității 🔔" → YouTube, TikTok, Facebook, Instagram. Language: English.
-Post time: 19:00 Europe/Lisbon, every day.
+Post times: 07:00 and 19:00 Europe/Lisbon, every day (see settings.json). Spec ids: YYYY-MM-DD-am (07:00) and YYYY-MM-DD-pm (19:00).
+Morning (am) videos: energising — discipline, starting the day, ambition. Evening (pm) videos: money mindset or reflective life lessons.
+AI-content labels per network are set in settings.json (ai_labels).
 
 ## Spec format (specs/YYYY-MM-DD.json)
 - theme: "gold" (money), "dawn" (life / hope / perseverance), "steel" (discipline / self-improvement)

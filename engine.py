@@ -308,7 +308,7 @@ def main(vid):
         arr = np.asarray(im.convert("RGB"), np.float32)
         # flash on hits
         fl = max([math.exp(-(t - h) * 14) for h in hits if t >= h] + [0]) * 0.45
-        arr = arr * vign + grains[i % 6] * 0.55
+        arr = arr * vign  # no film grain (looked noisy after platform compression)
         arr = arr + (255 - arr) * fl
         arr *= ease(t / 0.12) * ease((DUR - t) / 0.35)
         if stills:

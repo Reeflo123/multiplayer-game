@@ -1,0 +1,5 @@
+{
+ "slots": ["07:00", "19:00"],
+ "ai_labels": {"youtube": false, "tiktok": true, "instagram": true},
+ "length_seconds": [61, 75]
+}
