@@ -453,5 +453,89 @@
   "topic": "you are not your bank balance",
   "title": "You Are Not Your Bank Balance",
   "slot": "19:00"
+ },
+ {
+  "date": "2026-11-26",
+  "theme": "steel",
+  "topic": "rejection is redirection",
+  "title": "They Said No? Keep Going.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-26",
+  "theme": "gold",
+  "topic": "talk about money",
+  "title": "Nobody Talks About Money. That's the Problem.",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-27",
+  "theme": "gold",
+  "topic": "money is a tool, not the goal",
+  "title": "Money Is Not the Goal",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-27",
+  "theme": "dawn",
+  "topic": "take care of the builder",
+  "title": "Who's Taking Care of the Builder?",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-28",
+  "theme": "steel",
+  "topic": "discipline is self-respect",
+  "title": "Discipline Isn't Punishment. It's Self-Respect.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-28",
+  "theme": "gold",
+  "topic": "the ten-year view",
+  "title": "Where Will You Be in 10 Years?",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-29",
+  "theme": "steel",
+  "topic": "keep your word to yourself",
+  "title": "You Keep Your Word to Everyone Except Yourself",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-29",
+  "theme": "dawn",
+  "topic": "you're allowed to change your mind",
+  "title": "You're Allowed to Change Your Mind",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-30",
+  "theme": "steel",
+  "topic": "train your mind like a muscle",
+  "title": "Your Mind Is a Muscle. Train It.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-30",
+  "theme": "gold",
+  "topic": "end of month money check",
+  "title": "The Month Is Over. Do This Tonight.",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-12-01",
+  "theme": "steel",
+  "topic": "new month challenge",
+  "title": "New Month. Here's Your Challenge.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-12-01",
+  "theme": "dawn",
+  "topic": "finish the year strong",
+  "title": "The Year Isn't Over. Finish Strong.",
+  "slot": "19:00"
  }
 ]
