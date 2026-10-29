@@ -397,5 +397,61 @@
   "topic": "the night before you quit",
   "title": "If You're About to Give Up Tonight, Watch This",
   "slot": "19:00"
+ },
+ {
+  "date": "2026-11-22",
+  "theme": "steel",
+  "topic": "choose your hard",
+  "title": "Life Is Hard Either Way. Choose Your Hard.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-22",
+  "theme": "gold",
+  "topic": "real wealth is what you don't see",
+  "title": "Real Wealth Is Invisible",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-23",
+  "theme": "steel",
+  "topic": "do the hardest thing first",
+  "title": "Do the Hardest Thing First",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-23",
+  "theme": "dawn",
+  "topic": "regret of what you didn't do",
+  "title": "You'll Regret What You Didn't Do",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-24",
+  "theme": "steel",
+  "topic": "nobody is watching, good",
+  "title": "Nobody Is Watching? Good.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-24",
+  "theme": "gold",
+  "topic": "a budget is freedom",
+  "title": "You Hate Budgets? You've Got It Backwards.",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-25",
+  "theme": "gold",
+  "topic": "one income is a risk",
+  "title": "One Paycheck Is One Point of Failure",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-25",
+  "theme": "dawn",
+  "topic": "you are not your bank balance",
+  "title": "You Are Not Your Bank Balance",
+  "slot": "19:00"
  }
 ]
