@@ -341,5 +341,61 @@
   "topic": "a letter to your future self",
   "title": "Dear Future Me, I'm Doing This for You",
   "slot": "19:00"
+ },
+ {
+  "date": "2026-11-18",
+  "theme": "steel",
+  "topic": "boredom is the real test",
+  "title": "It Got Boring? This Is the Real Test.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-18",
+  "theme": "gold",
+  "topic": "the hidden cost of convenience",
+  "title": "Convenience Is Quietly Robbing You",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-19",
+  "theme": "gold",
+  "topic": "think in years, not days",
+  "title": "The Rich Think in Years, Not Days",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-19",
+  "theme": "dawn",
+  "topic": "your mind believes what you tell it",
+  "title": "Your Mind Believes What You Tell It",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-20",
+  "theme": "steel",
+  "topic": "stop comparing yourself to highlight reels",
+  "title": "Stop Comparing Your Life to Highlight Reels",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-20",
+  "theme": "gold",
+  "topic": "being broke is expensive",
+  "title": "Being Broke Is Expensive",
+  "slot": "19:00"
+ },
+ {
+  "date": "2026-11-21",
+  "theme": "steel",
+  "topic": "environment beats willpower",
+  "title": "Willpower Is Overrated. Do This Instead.",
+  "slot": "07:00"
+ },
+ {
+  "date": "2026-11-21",
+  "theme": "dawn",
+  "topic": "the night before you quit",
+  "title": "If You're About to Give Up Tonight, Watch This",
+  "slot": "19:00"
  }
 ]
