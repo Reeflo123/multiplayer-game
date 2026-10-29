@@ -1,0 +1,55 @@
+{
+ "theme": "dawn",
+ "topic": "the night before you quit",
+ "hook": [
+  "IF YOU'RE ABOUT TO",
+  "give up tonight"
+ ],
+ "lines": [
+  "#If you're thinking about giving up *tonight*...",
+  "just *wait.*",
+  "#Don't decide anything *tonight.*",
+  "Everything feels heavier at *night.*",
+  "The doubts are louder. The problems look *bigger.*",
+  "#Sleep on it.",
+  "#Because I've seen it again and *again.*",
+  "People quit right before it *works.*",
+  "One more month. One more *try.* One more door.",
+  "And they never get to see what was *waiting.*",
+  "Maybe this is the *month* it turns.",
+  "You'll never know if you stop *now.*",
+  "#You've already come so far.",
+  "Think about the person you were when you *started.*",
+  "They'd be amazed you're still *here.*",
+  "#Rest tonight. Cry if you *need* to.",
+  "Call someone who *believes* in you.",
+  "#Then tomorrow, take one small *step.*",
+  "Just one.",
+  "You don't need to feel strong.",
+  "You just need to not *quit* tonight.",
+  "#The morning always looks *different.*"
+ ],
+ "end": [
+  "NOT",
+  "TONIGHT.",
+  "Send this to someone thinking about giving up."
+ ],
+ "cover": {
+  "lines": [
+   "DON'T",
+   "QUIT",
+   "TONIGHT."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Wait for the morning",
+  "bg_time": 36
+ },
+ "post": {
+  "title": "If You're About to Give Up Tonight, Watch This",
+  "caption": "Don't decide anything tonight. The morning always looks different. 🌙",
+  "hashtags": "#dontgiveup #keepgoing #motivation #hope #resilience",
+  "first_comment": "Type 'NOT TONIGHT' if you're still fighting 👇"
+ }
+}

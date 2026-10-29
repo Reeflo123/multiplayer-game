@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "nobody is watching, good",
+ "hook": [
+  "NOBODY IS WATCHING?",
+  "good"
+ ],
+ "lines": [
+  "#Nobody is watching *you.*",
+  "Good.",
+  "#No likes on your workout. No comments on your *progress.*",
+  "No one asking how the new plan is *going.*",
+  "#It feels like nobody *cares.*",
+  "#But that's the greatest gift you'll ever *get.*",
+  "#Nobody watching means nobody to *impress.*",
+  "Nobody to perform for. Nobody to *disappoint.*",
+  "#It means you can be *bad* at it first.",
+  "You can make mistakes in *private.*",
+  "You can take your time and build something *real.*",
+  "#The best work happens when nobody's *looking.*",
+  "The early mornings. The late *nights.*",
+  "The reps that nobody *counts.*",
+  "Attention can *distract* you.",
+  "Silence lets you *focus.*",
+  "#So use this quiet.",
+  "Get better in *private.*",
+  "Stack the days while nobody is *paying* attention.",
+  "#Because one day, they *will* be watching.",
+  "And they'll think you came out of *nowhere.*",
+  "You'll know you came out of the *quiet.*"
+ ],
+ "end": [
+  "USE THE",
+  "QUIET.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "NOBODY'S",
+   "WATCHING?",
+   "GOOD."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Use the quiet",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "Nobody Is Watching? Good.",
+  "caption": "The best work happens when nobody is looking. Use the quiet. 🤫",
+  "hashtags": "#workinsilence #discipline #motivation #grind #mindset",
+  "first_comment": "What are you quietly building right now? 👇"
+ }
+}

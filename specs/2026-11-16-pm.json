@@ -1,0 +1,53 @@
+{
+ "theme": "dawn",
+ "topic": "small gratitude, big shift",
+ "hook": [
+  "BEFORE YOU SLEEP",
+  "try this for 7 days"
+ ],
+ "lines": [
+  "#Before you sleep tonight, try *this.*",
+  "Write down three good things from *today.*",
+  "#Not big things.",
+  "A good *coffee.* A message from a friend. A moment of *quiet.*",
+  "#Sounds too simple to matter, right?",
+  "But your brain is trained to look for *problems.*",
+  "It scans all day for what went *wrong.*",
+  "What's missing. What could go *bad.*",
+  "#So you fall asleep with a head full of *worry.*",
+  "And wake up already *tired.*",
+  "#Gratitude doesn't mean ignoring the *hard* stuff.",
+  "It means not letting the hard stuff be the *only* stuff.",
+  "#Do it for seven days.",
+  "You'll start noticing the good things *during* the day.",
+  "Because you know you'll need to write them *down.*",
+  "Your brain starts *hunting* for them.",
+  "#And slowly, the same life starts to feel *different.*",
+  "Lighter. *Fuller.*",
+  "Nothing outside changed.",
+  "#You just changed what you *see.*"
+ ],
+ "end": [
+  "COUNT THE",
+  "GOOD.",
+  "Try it tonight. Send this to someone who needs it."
+ ],
+ "cover": {
+  "lines": [
+   "TRY THIS",
+   "FOR 7",
+   "DAYS."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Before you sleep tonight",
+  "bg_time": 36
+ },
+ "post": {
+  "title": "Before You Sleep, Try This for 7 Days",
+  "caption": "Your brain hunts for problems. Teach it to hunt for good. 🌙",
+  "hashtags": "#gratitude #mindset #selfgrowth #motivation #nighttimeroutine",
+  "first_comment": "Drop one good thing from your day 👇"
+ }
+}

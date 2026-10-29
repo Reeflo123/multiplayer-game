@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "do the hardest thing first",
+ "hook": [
+  "DO THIS",
+  "before anything else"
+ ],
+ "lines": [
+  "#There's one thing on your list you've been *avoiding.*",
+  "You know exactly which one.",
+  "#The call. The *email.* The workout. The task you keep pushing to *later.*",
+  "#And because you're avoiding it, it follows you *all* day.",
+  "It sits in the back of your mind. Draining your *energy.*",
+  "Making everything else feel *heavy.*",
+  "#So here's the rule.",
+  "Do the hardest thing *first.*",
+  "Before the emails. Before the *scroll.* Before your energy runs out.",
+  "#Get it done while you're still *fresh.*",
+  "While your willpower is still *full.*",
+  "#And then watch what happens.",
+  "The rest of the day feels *lighter.*",
+  "Everything else seems *easy.*",
+  "And you walk around with the quiet confidence of someone who already *won.*",
+  "It's never as bad as your mind made it *seem.*",
+  "The dread is worse than the *doing.*",
+  "#Most people save the hard thing for *later.*",
+  "And later never *comes.*",
+  "#Not you. Not *today.*",
+  "Find the hardest thing on your list.",
+  "And do it *now.*"
+ ],
+ "end": [
+  "HARDEST",
+  "FIRST.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "HARDEST",
+   "THING",
+   "FIRST."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Do this before anything else",
+  "bg_time": 26
+ },
+ "post": {
+  "title": "Do the Hardest Thing First",
+  "caption": "The task you're avoiding follows you all day. Kill it first. 🎯",
+  "hashtags": "#productivity #discipline #motivation #morningmotivation #focus",
+  "first_comment": "What's the hardest thing on your list today? 👇"
+ }
+}

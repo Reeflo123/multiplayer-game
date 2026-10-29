@@ -1,0 +1,57 @@
+{
+ "theme": "steel",
+ "topic": "stop negotiating with yourself",
+ "hook": [
+  "STOP NEGOTIATING",
+  "with yourself"
+ ],
+ "lines": [
+  "#The alarm goes off. And the *negotiation* begins.",
+  "Five more minutes. I'll go *tonight.*",
+  "I'll start *tomorrow.*",
+  "#Here's the thing about negotiating with *yourself.*",
+  "The lazy version of you *always* wins.",
+  "Because it's had *years* of practice.",
+  "It knows exactly what to *say.*",
+  "You deserve a break. You worked hard *yesterday.*",
+  "One day won't *matter.*",
+  "#So stop *negotiating.*",
+  "Decide once. Then remove the *choice.*",
+  "Training is at seven. Not *maybe* at seven.",
+  "Savings come out on payday. Not if there's *something* left.",
+  "The phone goes in the drawer at ten. No *debate.*",
+  "#Strong people don't have more willpower.",
+  "They just make *fewer* decisions.",
+  "They decided once, and they stopped *arguing.*",
+  "So when the excuse shows up tomorrow, don't *answer* it.",
+  "Every time you keep it, the voice gets *quieter.*",
+  "Until one day, it stops *asking.*",
+  "Don't argue. Don't *explain.*",
+  "Just *move.*",
+  "#The decision was already *made.*",
+  "You just have to *keep* it."
+ ],
+ "end": [
+  "DECIDE",
+  "ONCE.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "STOP",
+   "NEGOTIATING",
+   "WITH YOURSELF."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "The lazy you always wins",
+  "bg_time": 26
+ },
+ "post": {
+  "title": "Stop Negotiating With Yourself",
+  "caption": "Decide once. Then remove the choice. 🔥",
+  "hashtags": "#discipline #mindset #motivation #selfcontrol #habits",
+  "first_comment": "What's the negotiation you lose every morning? 👇"
+ }
+}

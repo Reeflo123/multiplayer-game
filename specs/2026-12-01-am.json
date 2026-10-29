@@ -1,0 +1,57 @@
+{
+ "theme": "steel",
+ "topic": "new month challenge",
+ "hook": [
+  "NEW MONTH",
+  "here's your challenge"
+ ],
+ "lines": [
+  "#New *month.*",
+  "Here's your challenge.",
+  "#Thirty one days. One *habit.*",
+  "Not ten. Not a whole new life. *One.*",
+  "#Pick the one thing that would change the *most* if you did it every day.",
+  "A workout. Ten pages. Saving a little. Waking up a little *earlier.*",
+  "#Write it down.",
+  "Make it small enough to do on your *worst* day.",
+  "#Then show up. Every single *day.*",
+  "Mark it on a calendar. Don't break the *chain.*",
+  "#Some days it'll feel *great.*",
+  "Some days it'll feel *pointless.*",
+  "Do it anyway.",
+  "Miss a day? Don't miss *two.*",
+  "One slip is an accident. Two is the start of a new *habit.*",
+  "Get back on *track.*",
+  "#By the end of the month, you won't just have a habit.",
+  "You'll have *proof.*",
+  "Proof that you can *commit.*",
+  "Proof that you're not who you used to *be.*",
+  "#Most people will let December *slip* by.",
+  "Waiting for January to *change.*",
+  "#You're not most people.",
+  "Day one starts *now.*"
+ ],
+ "end": [
+  "DAY ONE",
+  "IS TODAY.",
+  "Comment your habit and start today."
+ ],
+ "cover": {
+  "lines": [
+   "31 DAYS.",
+   "ONE",
+   "HABIT."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Your December challenge",
+  "bg_time": 26
+ },
+ "post": {
+  "title": "New Month. Here's Your Challenge.",
+  "caption": "Most people wait for January. Day one starts now. 🔥",
+  "hashtags": "#30daychallenge #discipline #habits #motivation #newmonth",
+  "first_comment": "Comment the ONE habit you're doing for 31 days 👇"
+ }
+}

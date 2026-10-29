@@ -1,0 +1,56 @@
+{
+ "theme": "steel",
+ "topic": "done is better than perfect",
+ "hook": [
+  "PERFECT",
+  "is killing your dreams"
+ ],
+ "lines": [
+  "#Perfect is the most expensive *excuse.*",
+  "Waiting for the perfect plan. The perfect *time.*",
+  "The perfect version before you *show* anyone.",
+  "#Meanwhile someone with half your talent just *posted* theirs.",
+  "Messy. Imperfect. *Real.*",
+  "And they're already *learning* from it.",
+  "While you were *polishing*, they were growing.",
+  "While you waited to be *ready*, they got better.",
+  "#Perfectionism isn't high *standards.*",
+  "It's *fear* in a nice suit.",
+  "Fear of being *judged.* Fear of not being enough.",
+  "#Done beats perfect *every* time.",
+  "Done gets feedback. Done gets *better.*",
+  "Perfect just sits in your drafts *forever.*",
+  "Your first version is supposed to be *bad.*",
+  "That's how *every* great thing started.",
+  "Your first video. Your first *business.* Your first draft.",
+  "None of them will be *great.*",
+  "All of them will be *necessary.*",
+  "#So ship it. Post it. Send it. *Launch* it.",
+  "Then improve it.",
+  "Nobody remembers your first *attempt.*",
+  "They remember that you didn't *stop.*"
+ ],
+ "end": [
+  "DONE BEATS",
+  "PERFECT.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "DONE",
+   "BEATS",
+   "PERFECT."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Perfect is killing your dreams",
+  "bg_time": 28
+ },
+ "post": {
+  "title": "Perfect Is Killing Your Dreams",
+  "caption": "Perfectionism is just fear in a nice suit. Ship it. 🚀",
+  "hashtags": "#perfectionism #productivity #motivation #mindset #startnow",
+  "first_comment": "What's sitting in your drafts right now? 👇"
+ }
+}

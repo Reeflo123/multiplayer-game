@@ -1,0 +1,56 @@
+{
+ "theme": "steel",
+ "topic": "embrace the pressure",
+ "hook": [
+  "FEELING THE PRESSURE?",
+  "good"
+ ],
+ "lines": [
+  "#Feeling the *pressure?*",
+  "Good.",
+  "#Pressure means something *matters.*",
+  "Nobody feels pressure about things they don't *care* about.",
+  "#Most people run from it.",
+  "They avoid the hard *conversation.*",
+  "They turn down the bigger *role.*",
+  "They stay where it's *easy.*",
+  "Every promotion. Every *deadline.* Every big moment.",
+  "They all come with *pressure.*",
+  "#But pressure is what turns coal into *diamonds.*",
+  "It's what turns ordinary people into *strong* ones.",
+  "#Every time you step into it, you *grow.*",
+  "Your heart races. Your hands *sweat.*",
+  "And then you do it anyway.",
+  "And the next time, it's a little *easier.*",
+  "#The goal isn't to feel no pressure.",
+  "It's to get *comfortable* being uncomfortable.",
+  "To breathe through it. To *focus* through it.",
+  "To perform while everything inside you wants to *run.*",
+  "#So today, don't avoid the pressure.",
+  "Walk *toward* it.",
+  "That's where the version of you you've been waiting for is *hiding.*"
+ ],
+ "end": [
+  "WALK",
+  "TOWARD IT.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "PRESSURE",
+   "MAKES",
+   "DIAMONDS."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Feeling the pressure? Good.",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "Feeling the Pressure? Good.",
+  "caption": "Pressure means something matters. Walk toward it. 💎",
+  "hashtags": "#pressure #mentaltoughness #discipline #motivation #growth",
+  "first_comment": "What's putting pressure on you right now? 👇"
+ }
+}

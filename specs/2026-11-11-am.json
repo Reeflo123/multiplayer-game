@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "protect your energy",
+ "hook": [
+  "YOUR ENERGY",
+  "is your real currency"
+ ],
+ "lines": [
+  "#Your energy is your real *currency.*",
+  "And right now, you're spending it on all the wrong *things.*",
+  "#The argument in the comments. The *drama* in the group chat.",
+  "The person who only calls when they need *something.*",
+  "The show you don't even *like.*",
+  "#By the time you get to your goals, there's nothing *left.*",
+  "So you tell yourself you're too *tired.*",
+  "But you're not tired. You're *drained.*",
+  "#Start treating your energy like *money.*",
+  "Before you spend it, ask: is this worth *it?*",
+  "Does this conversation move me *forward?*",
+  "Does this person leave me *stronger* or weaker?",
+  "Does this habit give me energy, or *steal* it?",
+  "#Protect your mornings. Protect your *sleep.*",
+  "Protect your *focus.*",
+  "Move your body. Eat like you *respect* it.",
+  "Spend time with people who *recharge* you.",
+  "#You'll be amazed how much you can do when you stop *leaking.*",
+  "The same hours. The same *life.*",
+  "But suddenly, you have *power.*",
+  "#Guard it like it's *gold.*",
+  "Because it *is.*"
+ ],
+ "end": [
+  "GUARD YOUR",
+  "ENERGY.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "PROTECT",
+   "YOUR",
+   "ENERGY."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Stop spending it on the wrong things",
+  "bg_time": 24
+ },
+ "post": {
+  "title": "Your Energy Is Your Real Currency",
+  "caption": "You're not tired. You're drained. Stop leaking energy. ⚡",
+  "hashtags": "#protectyourenergy #mindset #discipline #motivation #selfcare",
+  "first_comment": "What's draining your energy the most right now? 👇"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "theme": "gold",
+ "topic": "the hidden cost of convenience",
+ "hook": [
+  "CONVENIENCE",
+  "is quietly robbing you"
+ ],
+ "lines": [
+  "#Convenience is quietly *robbing* you.",
+  "#Delivery fees. Service fees. *Small* fees.",
+  "The coffee you buy because you didn't make it at *home.*",
+  "The taxi because you left too *late.*",
+  "The subscription that renews because cancelling felt like *effort.*",
+  "#Every single one feels *tiny.*",
+  "That's how they *get* you.",
+  "#Nobody goes broke from one big purchase.",
+  "People go broke from a thousand *easy* ones.",
+  "#Convenience has a *price.*",
+  "And you're paying it every *day* without noticing.",
+  "#This isn't about never treating *yourself.*",
+  "It's about choosing when it's *worth* it.",
+  "Plan your week. Cook a little *more.*",
+  "Leave five minutes *earlier.*",
+  "Check what's renewing next month, and cancel what you don't *use.*",
+  "#A little effort today buys you a lot of *freedom* later.",
+  "Your future self doesn't care how easy today *was.*",
+  "#It cares how much you *kept.*",
+  "Be a little inconvenienced.",
+  "Be a lot more *free.*"
+ ],
+ "end": [
+  "CONVENIENCE",
+  "COSTS.",
+  "Save this and check your subscriptions tonight."
+ ],
+ "cover": {
+  "lines": [
+   "THE COST OF",
+   "EASY."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Convenience is quietly robbing you",
+  "bg_time": 18
+ },
+ "post": {
+  "title": "Convenience Is Quietly Robbing You",
+  "caption": "Nobody goes broke from one big purchase. It's a thousand easy ones. 💸",
+  "hashtags": "#moneytips #budgeting #savingmoney #moneymindset #personalfinance",
+  "first_comment": "What 'convenience' costs you the most each month? 👇"
+ }
+}

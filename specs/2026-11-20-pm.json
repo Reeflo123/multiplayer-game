@@ -1,0 +1,53 @@
+{
+ "theme": "gold",
+ "topic": "being broke is expensive",
+ "hook": [
+  "BEING BROKE",
+  "is expensive"
+ ],
+ "lines": [
+  "#Being broke is *expensive.*",
+  "#When you can't pay on time, you pay late *fees.*",
+  "When you can't afford quality, you buy cheap and buy *twice.*",
+  "When you have no savings, a small emergency becomes a *big* debt.",
+  "#And that debt comes with *interest.*",
+  "So you pay more for the same things than people who *have* money.",
+  "#It's one of life's cruel *jokes.*",
+  "The less you have, the more everything *costs.*",
+  "Being broke charges *interest* on everything.",
+  "Even on your *peace* of mind.",
+  "#That's why the first step isn't getting *rich.*",
+  "It's getting *ahead.*",
+  "Even a little.",
+  "#A small cushion means no more late *fees.*",
+  "Paying on time means no more *penalties.*",
+  "Buying once, buying right, means no more *replacing.*",
+  "#Suddenly the same income goes *further.*",
+  "Not because you earn more. Because you stopped *leaking.*",
+  "#Get one month ahead. Then *two.*",
+  "That's when money stops being an *emergency.*",
+  "And starts becoming a *tool.*"
+ ],
+ "end": [
+  "GET ONE",
+  "MONTH AHEAD.",
+  "Save this. Getting ahead starts small."
+ ],
+ "cover": {
+  "lines": [
+   "BROKE IS",
+   "EXPENSIVE."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "The less you have, the more it costs",
+  "bg_time": 16
+ },
+ "post": {
+  "title": "Being Broke Is Expensive",
+  "caption": "The less you have, the more everything costs. Get one month ahead. 💰",
+  "hashtags": "#moneymindset #personalfinance #budgeting #financialfreedom #savingmoney",
+  "first_comment": "What's the most expensive part of being broke for you? 👇"
+ }
+}

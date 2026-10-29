@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "failure is data",
+ "hook": [
+  "YOU DIDN'T FAIL",
+  "you collected data"
+ ],
+ "lines": [
+  "#You didn't *fail.*",
+  "You collected *data.*",
+  "#That business that didn't work? Now you know what customers *don't* want.",
+  "That relationship that ended? Now you know what you *need.*",
+  "That plan that fell apart? Now you know where the *cracks* were.",
+  "#Failure only becomes failure when you *stop.*",
+  "Until then, it's just *information.*",
+  "#Every scientist fails a hundred times before they find the *answer.*",
+  "And they don't call it *failure.*",
+  "They call it an *experiment.*",
+  "#So why are you so hard on *yourself?*",
+  "Why does one bad result make you want to give up *everything?*",
+  "Look at it like a scientist.",
+  "What worked? What *didn't?*",
+  "What will you change next *time?*",
+  "#Then try again. A little *smarter.*",
+  "And again.",
+  "Each attempt gets you closer. Even when it *hurts.*",
+  "#The only real failure is learning nothing.",
+  "And you're too smart for *that.*",
+  "Run the next *experiment.*"
+ ],
+ "end": [
+  "FAILURE IS",
+  "DATA.",
+  "Save this for the next time something doesn't work."
+ ],
+ "cover": {
+  "lines": [
+   "FAILURE",
+   "IS",
+   "DATA."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You didn't fail. You learned.",
+  "bg_time": 32
+ },
+ "post": {
+  "title": "You Didn't Fail. You Collected Data.",
+  "caption": "Failure only becomes failure when you stop. Run the next experiment. 🔬",
+  "hashtags": "#failure #growthmindset #motivation #resilience #neverquit",
+  "first_comment": "What's one 'failure' that taught you the most? 👇"
+ }
+}

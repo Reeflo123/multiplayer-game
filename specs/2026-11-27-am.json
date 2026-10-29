@@ -1,0 +1,56 @@
+{
+ "theme": "gold",
+ "topic": "money is a tool, not the goal",
+ "hook": [
+  "MONEY",
+  "is not the goal"
+ ],
+ "lines": [
+  "#Money is not the *goal.*",
+  "#Chase money for its own sake, and you'll never have *enough.*",
+  "There will always be a bigger *number.*",
+  "Someone with *more.*",
+  "#Money is a *tool.*",
+  "And like any tool, it's only as good as what you *build* with it.",
+  "#So ask yourself, what do I *actually* want?",
+  "Time with my family? Freedom to *travel?*",
+  "Not worrying about bills? Helping the people I *love?*",
+  "#That's the *real* goal.",
+  "Money is just the road that gets you *there.*",
+  "Two people can earn the same *money.*",
+  "One feels free. The other feels *trapped.*",
+  "The difference is the *why.*",
+  "#When you know your why, everything gets *easier.*",
+  "Saving stops feeling like *sacrifice.*",
+  "Working stops feeling *pointless.*",
+  "Saying no to impulse buys gets *simple.*",
+  "Because you know what you're saying *yes* to.",
+  "#Write down what money is *for* in your life.",
+  "Put it somewhere you'll see it every *day.*",
+  "#Then go build it.",
+  "With purpose."
+ ],
+ "end": [
+  "KNOW YOUR",
+  "WHY.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "MONEY",
+   "IS A",
+   "TOOL."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Not the goal",
+  "bg_time": 22
+ },
+ "post": {
+  "title": "Money Is Not the Goal",
+  "caption": "Money is a tool. Know what you're building with it. 🛠️",
+  "hashtags": "#moneymindset #purpose #financialfreedom #motivation #wealth",
+  "first_comment": "What is money really FOR in your life? 👇"
+ }
+}

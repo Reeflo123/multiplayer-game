@@ -1,0 +1,52 @@
+{
+ "theme": "dawn",
+ "topic": "finish the year strong",
+ "hook": [
+  "THE YEAR ISN'T OVER",
+  "not even close"
+ ],
+ "lines": [
+  "#The year isn't *over.*",
+  "#It's easy to look back and feel like you *wasted* it.",
+  "The goals you set in January. The plans that *faded.*",
+  "#But there are still thirty one days left.",
+  "That's over seven *hundred* hours.",
+  "That's enough time to *change* something.",
+  "#You can't fix the whole year in a month.",
+  "But you can change how it *ends.*",
+  "#Finish one thing you *started.*",
+  "Save something before the new year *arrives.*",
+  "Repair one relationship that *matters.*",
+  "Build one habit you'll carry *forward.*",
+  "#Because how you finish this year is how you'll *start* the next.",
+  "Small wins in December become *momentum* in January.",
+  "#Most people coast through December.",
+  "They'll walk into January *tired* and behind.",
+  "#You can walk into January with *momentum.*",
+  "#Don't wait for a new year to become a new *you.*",
+  "Start the ending *tonight.*"
+ ],
+ "end": [
+  "FINISH",
+  "STRONG.",
+  "Send this to someone who wants to finish the year strong."
+ ],
+ "cover": {
+  "lines": [
+   "FINISH",
+   "THE YEAR",
+   "STRONG."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "There's still time",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "The Year Isn't Over. Finish Strong.",
+  "caption": "How you finish this year is how you'll start the next. 🌅",
+  "hashtags": "#finishstrong #motivation #goals #newyear #mindset",
+  "first_comment": "What's one thing you'll finish before the year ends? 👇"
+ }
+}

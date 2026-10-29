@@ -1,0 +1,56 @@
+{
+ "theme": "gold",
+ "topic": "the 24-hour rule before buying",
+ "hook": [
+  "BEFORE YOU BUY IT",
+  "wait 24 hours"
+ ],
+ "lines": [
+  "#Before you buy it, *wait.*",
+  "Twenty four *hours.*",
+  "That's it. That's the whole *rule.*",
+  "#Most purchases aren't *decisions.*",
+  "They're *feelings.*",
+  "Bored? Buy something. Stressed? Buy *something.*",
+  "Saw an ad at midnight? Add to *cart.*",
+  "The apps know this. That's why buying is just *one* tap.",
+  "No time to think. No time to *ask* if you need it.",
+  "#Waiting one day breaks the *spell.*",
+  "Half the time, tomorrow you won't even *remember* what you wanted.",
+  "The other half, you'll realise you didn't really *need* it.",
+  "And if you still want it after a day? Fine. Now it's a *choice.*",
+  "#That pause is where your money *stays* yours.",
+  "It feels small. But it adds up to *hundreds.*",
+  "Then *thousands.*",
+  "Money that could become a cushion. A *trip.* A future.",
+  "Try it for one month. Every single *purchase.*",
+  "You'll be shocked how much you *keep.*",
+  "#You don't need more willpower. You need a *pause.*",
+  "Next time you're about to tap buy, *stop.*",
+  "Close the app. Wait a day.",
+  "Your future self will *thank* you."
+ ],
+ "end": [
+  "WAIT",
+  "A DAY.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "WAIT",
+   "24",
+   "HOURS."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "The simplest money rule there is",
+  "bg_time": 20
+ },
+ "post": {
+  "title": "The 24-Hour Rule That Saves You Money",
+  "caption": "Most purchases are feelings, not decisions. Wait a day. 💸",
+  "hashtags": "#moneytips #savingmoney #moneymindset #budgeting #personalfinance",
+  "first_comment": "What's the last thing you bought and instantly regretted? 👇"
+ }
+}

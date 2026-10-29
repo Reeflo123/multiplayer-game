@@ -1,0 +1,57 @@
+{
+ "theme": "steel",
+ "topic": "rejection is redirection",
+ "hook": [
+  "THEY SAID NO?",
+  "keep going"
+ ],
+ "lines": [
+  "#They said *no.*",
+  "The job. The *client.* The person. The opportunity.",
+  "#And it stings.",
+  "It makes you wonder if you're good *enough.*",
+  "#But rejection isn't a *verdict.*",
+  "It's *redirection.*",
+  "#Every no moves you one step closer to the right *yes.*",
+  "#The people who succeed don't get rejected *less.*",
+  "They get rejected *more.*",
+  "Because they keep *asking.*",
+  "They apply again. They pitch *again.* They knock on the next door.",
+  "Every successful person has a pile of *nos* behind them.",
+  "Most of them stopped *counting.*",
+  "#Rejection is just part of the *price.*",
+  "If you're not hearing no, you're not aiming high *enough.*",
+  "#So take the lesson, if there is one.",
+  "Improve what you *can.*",
+  "And leave the rest *behind.*",
+  "Don't take it *personally.*",
+  "Sometimes it's timing. Sometimes it's *fit.*",
+  "Sometimes it's just *not yet.*",
+  "#Then go collect the next *no.*",
+  "And the next one.",
+  "Until one day, the door *opens.*",
+  "And you'll be *ready.*"
+ ],
+ "end": [
+  "COLLECT",
+  "THE NOS.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "REJECTION IS",
+   "REDIRECTION."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Every no gets you closer",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "They Said No? Keep Going.",
+  "caption": "If you're not hearing no, you're not aiming high enough. 🚪",
+  "hashtags": "#rejection #resilience #motivation #nevergiveup #mindset",
+  "first_comment": "What's the best 'no' that ever happened to you? 👇"
+ }
+}

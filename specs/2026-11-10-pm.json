@@ -1,0 +1,54 @@
+{
+ "theme": "gold",
+ "topic": "patience pays with money",
+ "hook": [
+  "GET RICH QUICK?",
+  "here's what actually works"
+ ],
+ "lines": [
+  "#Everybody wants to get rich *quick.*",
+  "That's exactly why so few people get rich at *all.*",
+  "#They chase the next big *thing.*",
+  "The tip from a stranger. The video promising a *fortune.*",
+  "They jump in. They panic. They jump *out.*",
+  "And they start again from *zero.*",
+  "#Real wealth is *slow.*",
+  "So slow it feels like nothing is *happening.*",
+  "Month after month. Year after *year.*",
+  "And then one day, you look up, and it's *there.*",
+  "#Money rewards *patience* more than intelligence.",
+  "The ones who win aren't always the *smartest.*",
+  "They're the ones who stayed in the game the *longest.*",
+  "#So be suspicious of anything that promises you'll be rich *fast.*",
+  "If it sounds too good to be true, it almost always *is.*",
+  "Build slowly. Learn *constantly.*",
+  "Spend less than you earn, and keep doing it for *years.*",
+  "It's not exciting. It won't make a great *story.*",
+  "#But it works.",
+  "Boring money is the money that *stays.*",
+  "Let other people chase the *shortcut.*",
+  "You just keep *walking.*"
+ ],
+ "end": [
+  "SLOW MONEY",
+  "STAYS.",
+  "Save this for when you're tempted by a shortcut."
+ ],
+ "cover": {
+  "lines": [
+   "GET RICH",
+   "SLOW."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "The only way that actually works",
+  "bg_time": 20
+ },
+ "post": {
+  "title": "Get Rich Quick? Here's What Actually Works",
+  "caption": "Money rewards patience more than intelligence. Boring money stays. 💰",
+  "hashtags": "#moneymindset #wealthbuilding #patience #personalfinance #longterm",
+  "first_comment": "Have you ever been burned by a 'get rich quick' idea? 👇"
+ }
+}

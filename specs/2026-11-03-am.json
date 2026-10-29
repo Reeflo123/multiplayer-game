@@ -1,0 +1,54 @@
+{
+ "theme": "steel",
+ "topic": "focus beats more time",
+ "hook": [
+  "YOU DON'T NEED MORE TIME",
+  "you need this"
+ ],
+ "lines": [
+  "#You keep saying you don't have *time.*",
+  "But you don't need more time. You need more *focus.*",
+  "#Most people are busy all day, and finish *nothing.*",
+  "Ten tabs open. Phone buzzing. Half a task here, half a task *there.*",
+  "That's not work. That's *motion.*",
+  "#One focused hour beats a whole distracted *day.*",
+  "So here's what you do.",
+  "Pick one thing. The thing that actually *moves* your life forward.",
+  "Put your phone in another *room.*",
+  "Close every tab you don't *need.*",
+  "Set a timer. And go *all in.*",
+  "#No checking. No switching. No *escaping.*",
+  "Don't stop to check messages. Don't stop to *reply.*",
+  "The world will survive one hour without *you.*",
+  "It will feel uncomfortable at first. Your brain wants the *noise.*",
+  "Push through it.",
+  "After a week of this, you'll get more done before lunch than you used to in a *day.*",
+  "#Busy is easy. Anyone can be *busy.*",
+  "Focused is *rare.*",
+  "And rare is what gets *rewarded.*",
+  "Find your one thing today. And give it *everything.*"
+ ],
+ "end": [
+  "FOCUS",
+  "WINS.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "FOCUS",
+   "BEATS",
+   "BUSY."
+  ],
+  "accent_lines": [
+   0
+  ],
+  "sub": "One focused hour beats a whole day",
+  "bg_time": 26
+ },
+ "post": {
+  "title": "You Don't Need More Time. You Need Focus.",
+  "caption": "Busy is easy. Focused is rare — and rare gets rewarded. 🎯",
+  "hashtags": "#focus #productivity #discipline #motivation #deepwork",
+  "first_comment": "What's your ONE thing today? 👇"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "it's never too late to start",
+ "hook": [
+  "THINK IT'S TOO LATE?",
+  "watch this"
+ ],
+ "lines": [
+  "#You think it's too *late.*",
+  "Too late to change careers. Too late to *learn.*",
+  "Too late to start *over.*",
+  "#But here's a question.",
+  "How old will you be in five *years* if you don't start?",
+  "Exactly the same age as if you *do.*",
+  "#Time is going to pass *anyway.*",
+  "The only difference is what you have to *show* for it.",
+  "#There are people who started at forty. At *fifty.* At sixty.",
+  "People who learned to read later in *life.*",
+  "Who built something new after everyone said they were *done.*",
+  "They weren't special. They just stopped believing the *clock.*",
+  "#Your age is not a *wall.*",
+  "It's *experience.*",
+  "You know things now that you didn't know at *twenty.*",
+  "You've survived things that taught you *patience.*",
+  "That's not a weakness. That's a *head start.*",
+  "#So stop counting how many years you have *left.*",
+  "Start counting what you can *build* with them.",
+  "The best time was years ago.",
+  "#The next best time is *tonight.*"
+ ],
+ "end": [
+  "IT'S NOT",
+  "TOO LATE.",
+  "Send this to someone who thinks it's too late."
+ ],
+ "cover": {
+  "lines": [
+   "IT'S NOT",
+   "TOO",
+   "LATE."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Your age is not a wall",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "Think It's Too Late to Start? Watch This",
+  "caption": "Time passes anyway. The only question is what you'll have to show for it. 🌅",
+  "hashtags": "#nevertoolate #motivation #startover #mindset #lifelessons",
+  "first_comment": "What would you start if age didn't matter? 👇"
+ }
+}

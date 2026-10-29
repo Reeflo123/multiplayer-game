@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "boredom is the real test",
+ "hook": [
+  "IT GOT BORING?",
+  "this is the real test"
+ ],
+ "lines": [
+  "#It got *boring*, didn't it?",
+  "The new habit. The *plan.* The goal you were so excited about.",
+  "#The first week felt *amazing.*",
+  "Now it's just the same thing, every single *day.*",
+  "No rush. No *applause.* No visible results.",
+  "#This is the moment most people *quit.*",
+  "Not when it gets hard. When it gets *boring.*",
+  "#But boredom is the real *test.*",
+  "Anyone can work when it's *exciting.*",
+  "The people who win can work when it's *not.*",
+  "#Mastery lives on the other side of *boring.*",
+  "The athlete repeating the same drill for *years.*",
+  "The writer facing the blank page every *morning.*",
+  "The saver putting money away month after *month.*",
+  "#They're not more motivated than *you.*",
+  "They just made peace with *boring.*",
+  "#So when it feels dull today, *smile.*",
+  "It means you've made it further than most *people.*",
+  "You've reached the part where the real results get *built.*",
+  "Don't quit now.",
+  "#Boring is where the *magic* happens.",
+  "It just doesn't look like magic *yet.*"
+ ],
+ "end": [
+  "PASS THE",
+  "TEST.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "BORING",
+   "IS THE",
+   "TEST."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "This is where most people quit",
+  "bg_time": 28
+ },
+ "post": {
+  "title": "It Got Boring? This Is the Real Test.",
+  "caption": "Anyone can work when it's exciting. Winners work when it's not. 🔁",
+  "hashtags": "#discipline #consistency #motivation #mastery #mindset",
+  "first_comment": "What habit are you sticking with even though it's boring? 👇"
+ }
+}

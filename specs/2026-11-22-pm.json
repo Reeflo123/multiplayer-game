@@ -1,0 +1,54 @@
+{
+ "theme": "gold",
+ "topic": "real wealth is what you don't see",
+ "hook": [
+  "REAL WEALTH",
+  "is invisible"
+ ],
+ "lines": [
+  "#Real wealth is *invisible.*",
+  "#You can see the car. The watch. The *designer* bag.",
+  "But you can't see the *savings.*",
+  "You can't see the debt that isn't *there.*",
+  "You can't see the *freedom.*",
+  "#Some of the wealthiest people you'll ever meet drive an old *car.*",
+  "Live in a normal house. Wear normal *clothes.*",
+  "#And some of the people who look *richest*...",
+  "are one missed paycheck from *disaster.*",
+  "#Looking rich and being rich are *opposites.*",
+  "Every dollar spent showing off is a dollar that can't *grow.*",
+  "The bag goes out of style. The *savings* don't.",
+  "The car loses value. What you build in *yourself* doesn't.",
+  "#Real wealth is quiet.",
+  "It's being able to say no to a job you *hate.*",
+  "It's sleeping well when the bills *arrive.*",
+  "It's knowing your family is *covered* if something goes wrong.",
+  "#Nobody claps for that. Nobody even *knows.*",
+  "And that's exactly the *point.*",
+  "#Stop trying to look rich.",
+  "Start *quietly* becoming it."
+ ],
+ "end": [
+  "BE RICH.",
+  "NOT LOUD.",
+  "Save this. Real wealth is quiet."
+ ],
+ "cover": {
+  "lines": [
+   "REAL WEALTH",
+   "IS",
+   "INVISIBLE."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Looking rich vs being rich",
+  "bg_time": 20
+ },
+ "post": {
+  "title": "Real Wealth Is Invisible",
+  "caption": "Looking rich and being rich are opposites. Get quietly rich. 🤫",
+  "hashtags": "#quietwealth #moneymindset #wealth #personalfinance #financialfreedom",
+  "first_comment": "Would you rather look rich or be rich? 👇"
+ }
+}

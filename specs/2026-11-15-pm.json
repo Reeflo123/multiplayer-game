@@ -1,0 +1,52 @@
+{
+ "theme": "gold",
+ "topic": "money can't fix what you won't face",
+ "hook": [
+  "MORE MONEY",
+  "won't fix this"
+ ],
+ "lines": [
+  "#You think more money will fix *everything.*",
+  "#But money is a *magnifier.*",
+  "It makes you more of what you *already* are.",
+  "#If you overspend on a small salary, you'll overspend on a *big* one.",
+  "If you hide from your bank account now, you'll hide from it *later.*",
+  "If you buy things to feel *better*, you'll just buy more expensive things.",
+  "#That's why some people earn a lot and still have *nothing.*",
+  "The money changed. The habits *didn't.*",
+  "A bigger salary just gave them a bigger *hole.*",
+  "#So before you chase more, look at what you're *running* from.",
+  "Is it boredom? *Stress?* Wanting to feel enough?",
+  "No amount of money fills a hole like *that.*",
+  "#Face it first.",
+  "Learn to sit with the feeling instead of *spending* it away.",
+  "Learn to look at your numbers without *fear.*",
+  "Build the habits while the money is still *small.*",
+  "#Because when it grows, and it can, you'll be *ready.*",
+  "You'll know how to keep it.",
+  "And how to make it *grow.*",
+  "#Fix the person. Then the money *follows.*"
+ ],
+ "end": [
+  "FIX THE",
+  "HABITS.",
+  "Save this for before your next big payday."
+ ],
+ "cover": {
+  "lines": [
+   "MONEY IS A",
+   "MAGNIFIER."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "More money won't fix this",
+  "bg_time": 18
+ },
+ "post": {
+  "title": "More Money Won't Fix This",
+  "caption": "Money is a magnifier. It makes you more of what you already are. 💰",
+  "hashtags": "#moneymindset #personalfinance #moneyhabits #wealth #selfgrowth",
+  "first_comment": "What do you usually buy when you're stressed? 👇"
+ }
+}

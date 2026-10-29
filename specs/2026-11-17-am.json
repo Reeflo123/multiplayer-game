@@ -1,0 +1,54 @@
+{
+ "theme": "gold",
+ "topic": "the cost of cheap",
+ "hook": [
+  "BUYING CHEAP",
+  "is costing you more"
+ ],
+ "lines": [
+  "#Buying cheap is costing you *more.*",
+  "#The shoes that fall apart in three *months.*",
+  "The charger that breaks every *week.*",
+  "The cheap tool you replace again and *again.*",
+  "#It feels like saving. It's *not.*",
+  "Cheap is often the most *expensive* option.",
+  "#Rich people don't think in *price.*",
+  "They think in *cost per use.*",
+  "A good pair of boots you wear every day for five *years.*",
+  "Versus five cheap pairs that end up in the *bin.*",
+  "One pair costs more today. The other costs more *forever.*",
+  "Learn to tell the *difference.*",
+  "#This doesn't mean buy luxury.",
+  "Brand names are often just *marketing.*",
+  "It means buy *quality* where it matters.",
+  "The things you use *every* day.",
+  "Your bed. Your shoes. The tools you work *with.*",
+  "#Spend less on things that impress *people.*",
+  "Spend smart on things that serve *you.*",
+  "#Buy fewer things. Buy *better* things.",
+  "Look after them.",
+  "Your wallet, and your future, will *thank* you."
+ ],
+ "end": [
+  "BUY",
+  "BETTER.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "CHEAP IS",
+   "EXPENSIVE."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Think in cost per use",
+  "bg_time": 18
+ },
+ "post": {
+  "title": "Buying Cheap Is Costing You More",
+  "caption": "Think in cost per use, not price. Buy fewer, better things. 💡",
+  "hashtags": "#moneytips #frugalliving #moneymindset #personalfinance #smartspending",
+  "first_comment": "What's one thing you'll never buy cheap again? 👇"
+ }
+}

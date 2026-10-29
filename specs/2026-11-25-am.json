@@ -1,0 +1,55 @@
+{
+ "theme": "gold",
+ "topic": "one income is a risk",
+ "hook": [
+  "ONE PAYCHECK",
+  "is one point of failure"
+ ],
+ "lines": [
+  "#One paycheck is one point of *failure.*",
+  "#Your whole life depends on one *company.*",
+  "One boss. One *decision* in a meeting you're not in.",
+  "#And if that decision goes the wrong way?",
+  "Everything *stops.*",
+  "#That's not security. That's *hope.*",
+  "#This doesn't mean quit your *job.*",
+  "It means don't put your *whole* life in one basket.",
+  "#Build a skill people will pay for *outside* of work.",
+  "Start something small on the *weekends.*",
+  "Teach what you know. Fix what you're good at *fixing.*",
+  "Let your savings slowly grow *on the side.*",
+  "Start with what you already *know.*",
+  "Someone out there needs *exactly* that.",
+  "#Your second income doesn't need to be *big.*",
+  "It just needs to *exist.*",
+  "Because the day you have a second source, you stop living in *fear.*",
+  "#You go to work because you *choose* to.",
+  "Not because you're *trapped.*",
+  "#Start building a second stream.",
+  "Even a *small* one.",
+  "Starting this *week.*"
+ ],
+ "end": [
+  "BUILD A",
+  "SECOND STREAM.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "ONE INCOME",
+   "IS A",
+   "RISK."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Don't put your life in one basket",
+  "bg_time": 22
+ },
+ "post": {
+  "title": "One Paycheck Is One Point of Failure",
+  "caption": "Your second income doesn't need to be big. It just needs to exist. 💼",
+  "hashtags": "#sidehustle #moneymindset #incomegrowth #financialfreedom #motivation",
+  "first_comment": "Do you have a second income stream yet? 👇"
+ }
+}

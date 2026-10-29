@@ -1,0 +1,55 @@
+{
+ "theme": "dawn",
+ "topic": "the quiet power of saying no",
+ "hook": [
+  "YOU SAY YES",
+  "too much"
+ ],
+ "lines": [
+  "#You say *yes* too much.",
+  "Yes to favours you don't have time *for.*",
+  "Yes to plans you don't *want.*",
+  "Yes to people who never say yes to *you.*",
+  "Yes to the extra shift nobody else *wanted.*",
+  "Yes because no felt too *hard* to say.",
+  "#And then you wonder why you're *exhausted.*",
+  "Why there's never time for your own *goals.*",
+  "#Every yes to something is a no to something *else.*",
+  "Usually, it's a no to *yourself.*",
+  "#Saying no doesn't make you *selfish.*",
+  "It makes you *clear.*",
+  "Clear about what matters. Clear about where your *energy* goes.",
+  "You don't need a long explanation. You don't need to *apologise.*",
+  "No, thank you, is a complete *sentence.*",
+  "Say it kindly. Say it *clearly.*",
+  "And then let it *be.*",
+  "#The first few times, it will feel *uncomfortable.*",
+  "Some people won't like it.",
+  "That's usually the sign it was *needed.*",
+  "Protect your time like it's *money.*",
+  "Because one day, you'll wish you *had.*"
+ ],
+ "end": [
+  "NO IS A",
+  "FULL SENTENCE.",
+  "Save this for the next time you want to say no."
+ ],
+ "cover": {
+  "lines": [
+   "THE POWER",
+   "OF",
+   "NO."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You say yes too much",
+  "bg_time": 32
+ },
+ "post": {
+  "title": "The Quiet Power of Saying No",
+  "caption": "Every yes to something is a no to yourself. 🛑",
+  "hashtags": "#boundaries #selfrespect #mindset #motivation #selfcare",
+  "first_comment": "What's something you need to say no to this week? 👇"
+ }
+}

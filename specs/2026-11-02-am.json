@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "the first minute is the hardest",
+ "hook": [
+  "THE FIRST MINUTE",
+  "is where you lose"
+ ],
+ "lines": [
+  "#The hardest part of anything is the first *minute.*",
+  "Not the workout. Putting your shoes *on.*",
+  "Not the project. Opening the *laptop.*",
+  "Not the conversation. Saying the first *word.*",
+  "#Your brain hates *starting.*",
+  "So it gives you a hundred reasons to do it *later.*",
+  "Just one more coffee. One more video. One more *minute.*",
+  "#But here's the secret nobody tells you.",
+  "Once you start, the resistance *disappears.*",
+  "Five minutes in, you're not fighting anymore. You're *working.*",
+  "Momentum takes over, and suddenly it's *easy.*",
+  "#So stop trying to finish today.",
+  "Just *start.*",
+  "Tell yourself it's only one minute. Only one *rep.*",
+  "Only one *page.*",
+  "Your brain will believe it. And then you'll keep *going.*",
+  "Every great thing you admire started with someone just *beginning.*",
+  "Badly. Slowly. But *beginning.*",
+  "#Most people never lose because the work was too *hard.*",
+  "They lose because they never got past the first *minute.*",
+  "Today, win that minute.",
+  "Everything else *follows.*"
+ ],
+ "end": [
+  "JUST",
+  "START.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "WIN THE",
+   "FIRST",
+   "MINUTE."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "That's where most people lose",
+  "bg_time": 28
+ },
+ "post": {
+  "title": "The First Minute Is Where Most People Lose",
+  "caption": "Your brain hates starting. Win the first minute and momentum does the rest. ⚡",
+  "hashtags": "#discipline #motivation #productivity #mindset #selfimprovement",
+  "first_comment": "What's the one thing you keep putting off? 👇"
+ }
+}

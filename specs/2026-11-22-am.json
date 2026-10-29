@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "choose your hard",
+ "hook": [
+  "LIFE IS HARD",
+  "either way"
+ ],
+ "lines": [
+  "#Life is *hard.*",
+  "Either way.",
+  "#Training is hard. Being out of shape is *hard.*",
+  "Saving is hard. Being broke is *hard.*",
+  "Having the difficult conversation is hard. Living with the *silence* is hard.",
+  "#You don't get to choose a life without *hard.*",
+  "You only get to choose *which* hard.",
+  "#One kind of hard pays you *back.*",
+  "The other just keeps *taking.*",
+  "#The early alarm hurts for a *minute.*",
+  "The regret of wasted years hurts for a *lifetime.*",
+  "#Most people pick the hard that feels easier *today.*",
+  "And they pay for it *later.* With interest.",
+  "Hard now buys easy *later.*",
+  "Easy now costs you *more* later.",
+  "#So pick the hard that builds you.",
+  "Pick the hard that leaves you *stronger.*",
+  "The hard that opens *doors* instead of closing them.",
+  "#It won't feel good in the *moment.*",
+  "But one day, you'll look around at the life you *built.*",
+  "And you'll be so glad you chose *this* hard.",
+  "#Choose your hard. *Today.*"
+ ],
+ "end": [
+  "CHOOSE YOUR",
+  "HARD.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "CHOOSE",
+   "YOUR",
+   "HARD."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Life is hard either way",
+  "bg_time": 28
+ },
+ "post": {
+  "title": "Life Is Hard Either Way. Choose Your Hard.",
+  "caption": "One kind of hard pays you back. The other just keeps taking. 💪",
+  "hashtags": "#chooseyourhard #discipline #motivation #mindset #selfimprovement",
+  "first_comment": "Which 'hard' are you choosing today? 👇"
+ }
+}

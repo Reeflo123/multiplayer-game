@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "rest is not quitting",
+ "hook": [
+  "IF YOU'RE EXHAUSTED",
+  "listen to this"
+ ],
+ "lines": [
+  "#Rest is not *quitting.*",
+  "Somewhere along the way, we started believing that *tired* means weak.",
+  "That slowing down means falling *behind.*",
+  "#But even the strongest engine *overheats.*",
+  "Even the best athletes have *rest* days.",
+  "Even the ground needs a *winter.*",
+  "Even your phone needs to *charge.*",
+  "And you're more important than your *phone.*",
+  "#You can't pour from an *empty* cup.",
+  "If you keep running on nothing, you won't get there *faster.*",
+  "You'll just *break* on the way.",
+  "So tonight, give yourself *permission.*",
+  "Close the laptop. Put the phone *down.*",
+  "Sleep. Breathe. Do something that makes you feel *human* again.",
+  "No guilt. No checking emails in *bed.*",
+  "Just *rest.*",
+  "#Rest is part of the *work.*",
+  "It's where the body *heals.*",
+  "It's where the mind *resets.*",
+  "Tomorrow, you'll come back *stronger.*",
+  "#Pause if you need to. Just don't *quit.*"
+ ],
+ "end": [
+  "REST.",
+  "DON'T QUIT.",
+  "Send this to someone who's running on empty."
+ ],
+ "cover": {
+  "lines": [
+   "REST IS",
+   "NOT",
+   "QUITTING."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "If you're exhausted, watch this",
+  "bg_time": 36
+ },
+ "post": {
+  "title": "Rest Is Not Quitting",
+  "caption": "Even the strongest engine overheats. Pause if you need to — just don't quit. 🌙",
+  "hashtags": "#rest #burnout #selfcare #motivation #mentalhealthawareness",
+  "first_comment": "When was the last time you truly rested? 👇"
+ }
+}

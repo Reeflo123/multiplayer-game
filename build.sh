@@ -7,7 +7,7 @@ python3 -c "import kokoro_onnx, soundfile, scipy" 2>/dev/null || pip install -q 
 [ -s voices.bin ] || curl -sSL -o voices.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
 if [ ! -d fonts/anton ]; then mkdir -p fonts && (cd fonts && for p in anton playfair-display; do npm pack -q @fontsource/$p >/dev/null && tar xzf fontsource-$p-*.tgz && mv package $p; done); fi
 mkdir -p out
-python3 vo.py $ID
+if [ -f out/${ID}.json ] && [ out/${ID}.json -nt specs/${ID}.json ] && [ -f out/${ID}_00.wav ]; then echo "reusing voice"; else python3 vo.py $ID; fi
 python3 engine.py $ID
 python3 music.py $ID
 python3 cover.py $ID

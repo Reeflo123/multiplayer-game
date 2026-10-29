@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "environment beats willpower",
+ "hook": [
+  "WILLPOWER",
+  "is overrated"
+ ],
+ "lines": [
+  "#Willpower is *overrated.*",
+  "#If the junk food is on the counter, you'll *eat* it.",
+  "If the phone is next to your bed, you'll *scroll.*",
+  "If the gym bag is buried in the closet, you'll *skip.*",
+  "#It's not because you're *weak.*",
+  "It's because your environment is *stronger* than your willpower.",
+  "Every single *time.*",
+  "#So stop trying to fight your surroundings.",
+  "*Change* them.",
+  "#Put the phone in another room at *night.*",
+  "Leave your workout clothes *out.*",
+  "Put the fruit where the snacks *used* to be.",
+  "Delete the apps that *steal* your hours.",
+  "Set your savings to move *automatically.*",
+  "#Make the good choice the *easy* choice.",
+  "Make the bad choice *annoying.*",
+  "Put the book on your *pillow.*",
+  "Put the savings where you can't *see* them.",
+  "#Disciplined people aren't fighting harder than *you.*",
+  "They just built a life where they don't have to *fight* as much.",
+  "#Design your space.",
+  "And let it *pull* you forward."
+ ],
+ "end": [
+  "DESIGN YOUR",
+  "SPACE.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "ENVIRONMENT",
+   "BEATS",
+   "WILLPOWER."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Willpower is overrated",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "Willpower Is Overrated. Do This Instead.",
+  "caption": "Make the good choice the easy choice. Design your space. 🏠",
+  "hashtags": "#habits #discipline #productivity #selfimprovement #motivation",
+  "first_comment": "What's one change you'll make to your space today? 👇"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "theme": "gold",
+ "topic": "end of month money check",
+ "hook": [
+  "THE MONTH IS OVER",
+  "do this tonight"
+ ],
+ "lines": [
+  "#The month is over. Before the next one starts, do *this.*",
+  "#Open your bank app.",
+  "Look at the last thirty *days.*",
+  "#No judging. Just *looking.*",
+  "#Where did most of it *go?*",
+  "What surprised *you?*",
+  "What did you spend on that you don't even *remember?*",
+  "What was actually *worth* it?",
+  "Write down your three biggest *categories.*",
+  "Then ask, did this make my life *better?*",
+  "If not, it's a *leak.*",
+  "#Most people never look *back.*",
+  "So they make the same mistakes month after *month.*",
+  "#Ten minutes of looking can save you *hundreds.*",
+  "#Then pick one thing to change for *December.*",
+  "Just one.",
+  "Cancel one subscription. Set one *limit.*",
+  "Move a little more into savings the day you get *paid.*",
+  "#Small changes. Every single *month.*",
+  "By next year, you won't *recognise* your account.",
+  "#Close out the month like a *business* owner.",
+  "Because your life is the most important business you'll ever *run.*"
+ ],
+ "end": [
+  "REVIEW.",
+  "ADJUST.",
+  "Save this and do your money review tonight."
+ ],
+ "cover": {
+  "lines": [
+   "MONTH-END",
+   "MONEY",
+   "CHECK."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Do this before the next month starts",
+  "bg_time": 18
+ },
+ "post": {
+  "title": "The Month Is Over. Do This Tonight.",
+  "caption": "Ten minutes of looking back can save you hundreds. 💰",
+  "hashtags": "#budgeting #moneymindset #personalfinance #moneytips #financialgoals",
+  "first_comment": "What surprised you most about your spending this month? 👇"
+ }
+}

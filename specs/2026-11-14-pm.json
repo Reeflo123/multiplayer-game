@@ -1,0 +1,55 @@
+{
+ "theme": "dawn",
+ "topic": "be kind to yourself when you mess up",
+ "hook": [
+  "YOU MESSED UP",
+  "now what?"
+ ],
+ "lines": [
+  "#You messed up.",
+  "You broke the streak. Said the wrong *thing.* Spent the money.",
+  "#And now the voice in your head is *loud.*",
+  "You're useless. You *always* do this.",
+  "Why even *bother?*",
+  "#Would you talk to a friend like that?",
+  "Would you call someone you *love* a failure for one bad day?",
+  "#Of course not.",
+  "So why do you talk to *yourself* like that?",
+  "#Being hard on yourself doesn't make you *better.*",
+  "It makes you *quit.*",
+  "Shame says, you're the *problem.*",
+  "Growth says, that was a *mistake.* Let's fix it.",
+  "#So take a breath.",
+  "Own it. Learn from it. Make it right if you *can.*",
+  "Then let it *go.*",
+  "Mistakes are proof that you're *trying.*",
+  "One bad day doesn't erase a hundred good *ones.*",
+  "#You're allowed to be a work in *progress.*",
+  "Everyone *is.*",
+  "Tomorrow, you start again.",
+  "And this time, start as your own *friend.*"
+ ],
+ "end": [
+  "BE YOUR OWN",
+  "FRIEND.",
+  "Send this to someone who's too hard on themselves."
+ ],
+ "cover": {
+  "lines": [
+   "BE KIND",
+   "TO",
+   "YOURSELF."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You messed up. Now what?",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "You Messed Up. Now What?",
+  "caption": "Shame makes you quit. Growth makes you better. Be your own friend. 🤍",
+  "hashtags": "#selfcompassion #selflove #mindset #motivation #mentalhealthawareness",
+  "first_comment": "What would you tell a friend who messed up today? 👇"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "theme": "steel",
+ "topic": "keep your word to yourself",
+ "hook": [
+  "YOU KEEP YOUR WORD",
+  "to everyone except you"
+ ],
+ "lines": [
+  "#You keep your word to *everyone.*",
+  "Except *yourself.*",
+  "#You'd never miss a meeting with your *boss.*",
+  "You'd never stand up a *friend.*",
+  "#But the promise you made to go to the *gym?*",
+  "To start *saving?* To finally begin that project?",
+  "Those you cancel without a second *thought.*",
+  "#Why?",
+  "Because nobody else is *watching.*",
+  "Nobody else will be *disappointed.*",
+  "#Except you are.",
+  "And every broken promise teaches you that your plans don't *matter.*",
+  "Your own *word* starts to mean nothing.",
+  "You make plans, and part of you already *knows* you won't.",
+  "That's how dreams *die.* Quietly.",
+  "#Start treating appointments with yourself like *real* appointments.",
+  "Put them in your *calendar.*",
+  "Show up on *time.*",
+  "Don't cancel unless it's a real *emergency.*",
+  "If it matters to you, it *matters.*",
+  "#You deserve the same respect you give *everyone* else.",
+  "Maybe *more.*",
+  "#Keep your word to *you* today."
+ ],
+ "end": [
+  "KEEP YOUR",
+  "WORD.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "KEEP YOUR",
+   "WORD TO",
+   "YOU."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You deserve the same respect",
+  "bg_time": 30
+ },
+ "post": {
+  "title": "You Keep Your Word to Everyone Except Yourself",
+  "caption": "Treat appointments with yourself like real appointments. 📅",
+  "hashtags": "#discipline #selfrespect #habits #motivation #selfimprovement",
+  "first_comment": "What promise to yourself will you keep today? 👇"
+ }
+}

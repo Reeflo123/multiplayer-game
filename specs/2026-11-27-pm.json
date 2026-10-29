@@ -1,0 +1,55 @@
+{
+ "theme": "dawn",
+ "topic": "take care of the builder",
+ "hook": [
+  "YOU'RE BUILDING A LIFE",
+  "but who's taking care of you?"
+ ],
+ "lines": [
+  "#You're building a *life.*",
+  "But who's taking care of the *builder?*",
+  "#You push. You grind. You *sacrifice.*",
+  "You skip meals. You skip *sleep.*",
+  "You tell yourself you'll rest when you *make* it.",
+  "#But if the builder breaks, the building *stops.*",
+  "#Your body is the only one you'll ever *have.*",
+  "Your mind is the engine behind *everything.*",
+  "And you're running both on *empty.*",
+  "#Taking care of yourself isn't a *reward* for success.",
+  "It's the *foundation* of it.",
+  "#Drink the water. Get the *sleep.*",
+  "Move your body. Get some *sunlight.*",
+  "Talk to someone when it gets *heavy.*",
+  "Rest isn't *weakness.*",
+  "It's *maintenance.*",
+  "#You can't build a great life in a broken *body.*",
+  "Or with a tired *mind.*",
+  "Your dreams need you *healthy.*",
+  "Not *burnt* out.",
+  "#So tonight, take care of the builder.",
+  "The building will *thank* you."
+ ],
+ "end": [
+  "CARE FOR THE",
+  "BUILDER.",
+  "Send this to someone who forgets to rest."
+ ],
+ "cover": {
+  "lines": [
+   "TAKE CARE",
+   "OF THE",
+   "BUILDER."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "If you break, the building stops",
+  "bg_time": 36
+ },
+ "post": {
+  "title": "Who's Taking Care of the Builder?",
+  "caption": "Taking care of yourself isn't a reward for success. It's the foundation. 🤍",
+  "hashtags": "#selfcare #balance #motivation #wellbeing #mindset",
+  "first_comment": "What's one thing you'll do for yourself tonight? 👇"
+ }
+}

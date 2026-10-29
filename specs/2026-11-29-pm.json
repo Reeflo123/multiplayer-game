@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "you're allowed to change your mind",
+ "hook": [
+  "YOU'RE ALLOWED",
+  "to change your mind"
+ ],
+ "lines": [
+  "#You're allowed to change your *mind.*",
+  "#About the career you chose at *eighteen.*",
+  "About the city you live in. The *dream* you used to have.",
+  "About who you thought you were *supposed* to be.",
+  "#Changing your mind isn't *failure.*",
+  "It's *growth.*",
+  "#You know more now. You've lived *more.*",
+  "Of course some things don't fit *anymore.*",
+  "#The only mistake is staying somewhere you've outgrown...",
+  "just because you're scared of what people will *say.*",
+  "Staying the same to keep others *comfortable* is a slow way to disappear.",
+  "You deserve a life that *fits.*",
+  "#People will talk. They *always* do.",
+  "But they don't have to live your *life.*",
+  "You do.",
+  "Growing means *letting go.*",
+  "#So if something in your heart has *shifted*...",
+  "listen to it.",
+  "Take the next step, even if it's a *small* one.",
+  "#You don't owe anyone the old version of *you.*",
+  "#Not even *yourself.*"
+ ],
+ "end": [
+  "IT'S OKAY TO",
+  "CHANGE.",
+  "Send this to someone who's outgrowing their life."
+ ],
+ "cover": {
+  "lines": [
+   "YOU CAN",
+   "CHANGE YOUR",
+   "MIND."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You don't owe anyone the old you",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "You're Allowed to Change Your Mind",
+  "caption": "Changing your mind isn't failure. It's growth. 🌅",
+  "hashtags": "#growth #changeyourlife #motivation #selfdiscovery #mindset",
+  "first_comment": "What have you changed your mind about this year? 👇"
+ }
+}

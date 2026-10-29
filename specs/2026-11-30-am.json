@@ -1,0 +1,54 @@
+{
+ "theme": "steel",
+ "topic": "train your mind like a muscle",
+ "hook": [
+  "YOUR MIND",
+  "is a muscle"
+ ],
+ "lines": [
+  "#Your mind is a *muscle.*",
+  "And right now, it's *out* of shape.",
+  "#You can't focus for more than a few *minutes.*",
+  "You reach for your phone the second you're *bored.*",
+  "One bad comment ruins your whole *day.*",
+  "#That's not who you *are.*",
+  "That's what you've *trained.*",
+  "#And anything you trained, you can *retrain.*",
+  "#Read for ten minutes without stopping. That's a *rep.*",
+  "Sit in silence for two minutes. That's a *rep.*",
+  "Finish something hard without checking your phone. That's a *rep.*",
+  "Choose a calm reply instead of an angry one. *Rep.*",
+  "#It'll feel weak at first. Like the first day at the *gym.*",
+  "But every rep makes it *stronger.*",
+  "Rep by rep. Day by *day.*",
+  "#In a few weeks, you'll notice it.",
+  "More focus. More *calm.* More control.",
+  "#The world is trying to make your mind *weak.*",
+  "Every app. Every *notification.*",
+  "#Train it anyway.",
+  "A strong mind is the ultimate *advantage.*"
+ ],
+ "end": [
+  "TRAIN YOUR",
+  "MIND.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "TRAIN",
+   "YOUR",
+   "MIND."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "It's a muscle. It's out of shape.",
+  "bg_time": 28
+ },
+ "post": {
+  "title": "Your Mind Is a Muscle. Train It.",
+  "caption": "The world is trying to make your mind weak. Train it anyway. 🧠",
+  "hashtags": "#mentaltoughness #focus #discipline #mindset #motivation",
+  "first_comment": "What's one mental 'rep' you'll do today? 👇"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "you're not lazy, you're unclear",
+ "hook": [
+  "YOU'RE NOT LAZY",
+  "you're unclear"
+ ],
+ "lines": [
+  "#You're not *lazy.*",
+  "You're *unclear.*",
+  "#When you don't know exactly what to do next, your brain *freezes.*",
+  "Get fit. Make money. Be *successful.*",
+  "Those aren't plans. They're *wishes.*",
+  "And nobody gets out of bed for a *wish.*",
+  "You'll scroll for hours, not because you're lazy, but because you don't know where to *begin.*",
+  "So doing nothing feels *safer.*",
+  "#Clarity creates *energy.*",
+  "Instead of get fit, it's: walk thirty minutes after *lunch.*",
+  "Instead of make money, it's: send three job applications *today.*",
+  "Instead of be successful, it's: finish the *first* page.",
+  "#See the difference?",
+  "One makes you feel *overwhelmed.*",
+  "The other tells you exactly where to put your *feet.*",
+  "#So tonight, take your biggest goal.",
+  "Break it down until the next step is *obvious.*",
+  "So small and clear you could do it with your eyes *closed.*",
+  "Then tomorrow, do *that.*",
+  "#You'll be shocked how fast lazy *disappears.*",
+  "It was never about effort.",
+  "You just needed to see the *road.*"
+ ],
+ "end": [
+  "GET",
+  "CLEAR.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "YOU'RE NOT",
+   "LAZY.",
+   "YOU'RE UNCLEAR."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Clarity creates energy",
+  "bg_time": 28
+ },
+ "post": {
+  "title": "You're Not Lazy. You're Unclear.",
+  "caption": "Nobody gets out of bed for a wish. Get clear on the next step. 🎯",
+  "hashtags": "#productivity #goals #motivation #discipline #clarity",
+  "first_comment": "What's the next tiny step on your biggest goal? 👇"
+ }
+}

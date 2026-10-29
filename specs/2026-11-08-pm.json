@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "be the one who breaks the cycle",
+ "hook": [
+  "IF YOU'RE THE ONE",
+  "breaking the cycle"
+ ],
+ "lines": [
+  "#If you're the first one in your family trying to do it *differently*...",
+  "this is for *you.*",
+  "#It's lonely being the *first.*",
+  "No map. No one to *ask.*",
+  "Sometimes even the people you love don't *understand* what you're doing.",
+  "#They might call it a phase. They might *doubt* you.",
+  "They might wish you'd just be *normal.*",
+  "But you saw something they *didn't.*",
+  "You saw that the pattern doesn't have to *continue.*",
+  "#Breaking a cycle is *heavy.*",
+  "You're carrying the pain of the past, and building a future at the *same* time.",
+  "That's twice the work. And nobody *claps* for it.",
+  "You're healing wounds you didn't *cause.*",
+  "And learning lessons nobody *taught* you.",
+  "#But one day, someone will grow up *without* what you went through.",
+  "Because you decided it would *end* with you.",
+  "That's not small.",
+  "Every hard conversation. Every *different* choice.",
+  "It all counts.",
+  "#That's *legacy.*",
+  "Keep going. They're counting on you, even if they don't know it *yet.*"
+ ],
+ "end": [
+  "IT ENDS",
+  "WITH YOU.",
+  "Send this to someone breaking the cycle."
+ ],
+ "cover": {
+  "lines": [
+   "BREAK",
+   "THE",
+   "CYCLE."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "If you're the first, this is for you",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "To the One Breaking the Cycle",
+  "caption": "It's lonely being the first. But it ends with you. 🌅",
+  "hashtags": "#breakthecycle #generationalchange #motivation #healing #legacy",
+  "first_comment": "Type 'IT ENDS WITH ME' if this is you 👇"
+ }
+}

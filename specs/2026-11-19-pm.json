@@ -1,0 +1,53 @@
+{
+ "theme": "dawn",
+ "topic": "your mind believes what you tell it",
+ "hook": [
+  "LISTEN TO",
+  "how you talk to yourself"
+ ],
+ "lines": [
+  "#Listen to how you talk to *yourself.*",
+  "#I'm bad with money. I'm not a morning *person.*",
+  "I always quit. I'm just not *smart* enough.",
+  "#You've said it so many times, it sounds like a *fact.*",
+  "It's not.",
+  "It's a *habit.*",
+  "#Your mind believes what you repeat to it.",
+  "It doesn't check if it's *true.*",
+  "It just makes it *real.*",
+  "#So if you keep calling yourself lazy, you'll find proof every *day.*",
+  "And you'll stop *trying.*",
+  "#Change the words, and you start changing the *person.*",
+  "Not with fake confidence. With *honest* ones.",
+  "Instead of I'm bad with money, say, I'm *learning* money.",
+  "Instead of I always quit, say, I'm getting better at *finishing.*",
+  "Instead of I can't, say, I can't *yet.*",
+  "#It sounds small. It's *not.*",
+  "Every sentence you say is a vote for who you *become.*",
+  "#So be careful with your words tonight.",
+  "Your mind is *listening.*"
+ ],
+ "end": [
+  "CHANGE THE",
+  "WORDS.",
+  "Send this to someone who's too hard on themselves."
+ ],
+ "cover": {
+  "lines": [
+   "YOUR MIND",
+   "IS",
+   "LISTENING."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Watch how you talk to yourself",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "Your Mind Believes What You Tell It",
+  "caption": "Every sentence you say is a vote for who you become. 🧠",
+  "hashtags": "#selftalk #mindset #positivemindset #selfgrowth #motivation",
+  "first_comment": "What's one thing you'll stop saying about yourself? 👇"
+ }
+}

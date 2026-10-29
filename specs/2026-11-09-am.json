@@ -1,0 +1,58 @@
+{
+ "theme": "gold",
+ "topic": "delayed gratification",
+ "hook": [
+  "WANT IT NOW?",
+  "that's the trap"
+ ],
+ "lines": [
+  "#Want it *now?*",
+  "That's exactly the trap.",
+  "#Everything around you is built for *now.*",
+  "Next day delivery. Instant loans. Endless *scrolling.*",
+  "Your brain loves it. Your future *hates* it.",
+  "#The people who win play a different *game.*",
+  "We want the body without the *training.*",
+  "The money without the *saving.*",
+  "The success without the *years.*",
+  "They can *wait.*",
+  "They skip the *small* reward today, for the bigger one *later.*",
+  "They save instead of *upgrading.*",
+  "They study while others go *out.*",
+  "They train when it would be easier to *rest.*",
+  "#It looks boring from the *outside.*",
+  "Not because they don't *want* things.",
+  "But because they want *bigger* things.",
+  "But give it five years, and the gap becomes *massive.*",
+  "#The ability to wait is a *superpower.*",
+  "And like any power, it gets stronger with *practice.*",
+  "So today, delay *one* thing.",
+  "Just one.",
+  "Skip the impulse buy. Finish the task before the *scroll.*",
+  "Choose the long road *once.*",
+  "And feel what it's like to be in *control.*"
+ ],
+ "end": [
+  "PLAY THE",
+  "LONG GAME.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "WAIT",
+   "FOR",
+   "IT."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "The superpower nobody talks about",
+  "bg_time": 20
+ },
+ "post": {
+  "title": "Want It Now? That's the Trap.",
+  "caption": "The ability to wait is a superpower. Practise it today. ⏳",
+  "hashtags": "#delayedgratification #discipline #moneymindset #motivation #longterm",
+  "first_comment": "What's one thing you'll delay today? 👇"
+ }
+}

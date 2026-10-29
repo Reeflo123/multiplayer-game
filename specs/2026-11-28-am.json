@@ -1,0 +1,54 @@
+{
+ "theme": "steel",
+ "topic": "discipline is self-respect",
+ "hook": [
+  "DISCIPLINE",
+  "isn't punishment"
+ ],
+ "lines": [
+  "#Discipline isn't *punishment.*",
+  "It's *self-respect.*",
+  "#When you keep a promise to yourself, you're saying *I matter.*",
+  "My goals matter. My *future* matters.",
+  "#And when you keep breaking those promises?",
+  "Slowly, you stop *believing* yourself.",
+  "You make plans, and part of you already knows you won't *follow* through.",
+  "#That's not laziness. That's broken *trust.*",
+  "#The way to rebuild it is *small.*",
+  "Make a tiny promise. And *keep* it.",
+  "Ten minutes of reading. A glass of *water.* One walk.",
+  "Then make another. And *keep* that too.",
+  "Don't start with a mountain. Start with a *step.*",
+  "The goal right now isn't the result.",
+  "It's *trust.*",
+  "#Every kept promise is a *deposit.*",
+  "And slowly, the trust comes *back.*",
+  "#You start to believe your own *words* again.",
+  "And a person who believes their own words is very hard to *stop.*",
+  "#Discipline is how you show yourself *respect.*",
+  "Show up for yourself *today.*"
+ ],
+ "end": [
+  "RESPECT",
+  "YOURSELF.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "DISCIPLINE",
+   "IS SELF-",
+   "RESPECT."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "It isn't punishment",
+  "bg_time": 26
+ },
+ "post": {
+  "title": "Discipline Isn't Punishment. It's Self-Respect.",
+  "caption": "Every kept promise is a deposit. Rebuild the trust with yourself. 🔥",
+  "hashtags": "#discipline #selfrespect #motivation #habits #selfimprovement",
+  "first_comment": "What small promise will you keep today? 👇"
+ }
+}

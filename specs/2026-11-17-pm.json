@@ -1,0 +1,56 @@
+{
+ "theme": "dawn",
+ "topic": "a letter to your future self",
+ "hook": [
+  "DEAR FUTURE ME",
+  "I'm doing this for you"
+ ],
+ "lines": [
+  "#Dear future *me.*",
+  "I'm doing this for *you.*",
+  "#Tonight I'm tired. I almost didn't *bother.*",
+  "But I thought about *you.*",
+  "#I thought about the version of me who's *healthier.*",
+  "Who isn't scared of opening the bank *app.*",
+  "Who finally believes in *himself.*",
+  "#You don't exist *yet.*",
+  "You're being built right now, in choices nobody *sees.*",
+  "Every early morning. Every *no.* Every page.",
+  "#Some days I'll let you down.",
+  "I'm sorry for those days.",
+  "But I promise I'll keep *coming* back.",
+  "I know you're going to be *proud.*",
+  "Not because everything went *perfectly.*",
+  "But because I didn't *stop.*",
+  "#When you get there, don't forget where you *came* from.",
+  "Don't forget the nights that felt *impossible.*",
+  "And be kind to the next version of you, too.",
+  "#Because I'm still *building.*",
+  "And I'm not *stopping.*",
+  "See you soon.",
+  "#Love, *me.*"
+ ],
+ "end": [
+  "SEE YOU",
+  "SOON.",
+  "Write your own letter tonight. Save this."
+ ],
+ "cover": {
+  "lines": [
+   "DEAR",
+   "FUTURE",
+   "ME."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "I'm doing this for you",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "Dear Future Me, I'm Doing This for You",
+  "caption": "You're being built right now, in choices nobody sees. ✉️",
+  "hashtags": "#futureself #motivation #selfgrowth #mindset #keepgoing",
+  "first_comment": "Write one line to your future self 👇"
+ }
+}

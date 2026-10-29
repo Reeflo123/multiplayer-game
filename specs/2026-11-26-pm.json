@@ -1,0 +1,53 @@
+{
+ "theme": "gold",
+ "topic": "talk about money",
+ "hook": [
+  "NOBODY TALKS",
+  "about money. That's the problem."
+ ],
+ "lines": [
+  "#Nobody talks about *money.*",
+  "And that's exactly the *problem.*",
+  "#We talk about sports. *Relationships.* Our weekends.",
+  "But money? Too *awkward.* Too private. Too *embarrassing.*",
+  "#So we stay *confused.*",
+  "We guess. We copy whatever everyone else is *doing.*",
+  "We make the same mistakes our parents *made.*",
+  "#Silence keeps people *broke.*",
+  "#Couples argue about money because they never *planned* it together.",
+  "Friends overspend because nobody wants to say, I can't *afford* that.",
+  "Families repeat the same patterns for *generations.*",
+  "Nobody learns to swim by never talking about *water.*",
+  "And nobody learns money by *avoiding* it.",
+  "#Start small.",
+  "Ask someone you trust how they *save.*",
+  "Tell your partner what you're *worried* about.",
+  "Tell your friends you're saving this *month.*",
+  "#You'll be surprised how many people feel *exactly* the same.",
+  "And how much you *learn.*",
+  "#Money gets easier the moment it stops being a *secret.*"
+ ],
+ "end": [
+  "START THE",
+  "CONVERSATION.",
+  "Send this to someone you need to talk money with."
+ ],
+ "cover": {
+  "lines": [
+   "TALK",
+   "ABOUT",
+   "MONEY."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Silence keeps people broke",
+  "bg_time": 20
+ },
+ "post": {
+  "title": "Nobody Talks About Money. That's the Problem.",
+  "caption": "Silence keeps people broke. Money gets easier when it stops being a secret. 💬",
+  "hashtags": "#moneytalk #personalfinance #moneymindset #relationships #financialliteracy",
+  "first_comment": "Who taught you the most about money? 👇"
+ }
+}

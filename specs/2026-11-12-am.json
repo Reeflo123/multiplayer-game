@@ -1,0 +1,56 @@
+{
+ "theme": "gold",
+ "topic": "debt is a chain",
+ "hook": [
+  "THAT PURCHASE",
+  "comes with a chain"
+ ],
+ "lines": [
+  "#Every time you buy something you can't afford, it comes with a *chain.*",
+  "#At first, you don't feel it.",
+  "The new phone. The nicer car. The weekend on the *card.*",
+  "Small monthly payments. Easy. *Painless.*",
+  "#But chains add *up.*",
+  "One payment becomes *five.*",
+  "And suddenly your paycheck is spent before it even *arrives.*",
+  "#You go to work, not to build your *future.*",
+  "But to pay for your *past.*",
+  "That's the trap.",
+  "You can't say no to a bad job. You can't take a *risk.*",
+  "You can't *breathe.*",
+  "You can't build a future while you're still *paying* for the past.",
+  "#Freedom starts when the chains start coming *off.*",
+  "List everything you owe. Every single *one.*",
+  "Look at it. Even if it *hurts.*",
+  "Stop adding new *chains.*",
+  "Then start breaking the old ones, one at a *time.*",
+  "#Every chain you break gives you a little more *room.*",
+  "A little more *choice.*",
+  "A little more *you.*",
+  "Your future self doesn't want *stuff.*",
+  "It wants to be *free.*"
+ ],
+ "end": [
+  "BREAK THE",
+  "CHAINS.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "DEBT",
+   "IS A",
+   "CHAIN."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Freedom starts when it comes off",
+  "bg_time": 16
+ },
+ "post": {
+  "title": "That Purchase Comes With a Chain",
+  "caption": "You go to work to pay for your past. Time to break the chains. ⛓️",
+  "hashtags": "#debtfree #moneymindset #personalfinance #financialfreedom #budgeting",
+  "first_comment": "Type 'FREE' if you're working on breaking your chains 👇"
+ }
+}

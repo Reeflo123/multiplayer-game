@@ -1,0 +1,53 @@
+{
+ "theme": "dawn",
+ "topic": "you are not your bank balance",
+ "hook": [
+  "YOUR BANK BALANCE",
+  "is not your worth"
+ ],
+ "lines": [
+  "#Your bank balance is not your *worth.*",
+  "#Right now, money might be *tight.*",
+  "Maybe you're behind on things. Maybe you're *embarrassed.*",
+  "Maybe you avoid friends because you can't afford to go *out.*",
+  "#And slowly, you start to feel like *less.*",
+  "Less successful. Less *capable.* Less worthy.",
+  "#Listen to me.",
+  "Your bank balance is a *number.*",
+  "It shows where you are *today.*",
+  "It doesn't show your *character.*",
+  "It doesn't show your *kindness.*",
+  "It doesn't show how hard you're *fighting.*",
+  "It doesn't show the people you *carry.*",
+  "Or the *dreams* you still hold onto.",
+  "#Some of the richest people are deeply *unhappy.*",
+  "And some people with almost nothing have more *peace* than anyone you know.",
+  "#Yes, work on your money. Build it. *Protect* it.",
+  "But never let it tell you who you *are.*",
+  "#Numbers change.",
+  "Your worth was never *up* for debate."
+ ],
+ "end": [
+  "YOU ARE",
+  "ENOUGH.",
+  "Send this to someone who's struggling with money."
+ ],
+ "cover": {
+  "lines": [
+   "YOU ARE",
+   "NOT YOUR",
+   "BALANCE."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Your worth was never a number",
+  "bg_time": 34
+ },
+ "post": {
+  "title": "You Are Not Your Bank Balance",
+  "caption": "Numbers change. Your worth was never up for debate. 🤍",
+  "hashtags": "#selfworth #moneymindset #mentalhealthawareness #motivation #youareenough",
+  "first_comment": "Type 'ENOUGH' if you needed this today 👇"
+ }
+}

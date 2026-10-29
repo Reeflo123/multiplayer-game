@@ -1,0 +1,53 @@
+{
+ "theme": "gold",
+ "topic": "an emergency fund buys peace",
+ "hook": [
+  "ONE BAD DAY",
+  "away from disaster?"
+ ],
+ "lines": [
+  "#Most people are *one* bad day away from disaster.",
+  "One broken car. One surprise *bill.* One lost job.",
+  "#And when it happens, everything *collapses.*",
+  "Panic. Borrowing. *Stress* that keeps you awake.",
+  "#A safety cushion changes *everything.*",
+  "It's not exciting money. You won't post it *online.*",
+  "But it's the money that buys you *peace.*",
+  "When something breaks, it's an *inconvenience.* Not a crisis.",
+  "When a bad boss pushes you, you have the freedom to *walk.*",
+  "It's the difference between *choosing*, and being forced.",
+  "Between sleeping at night, and staring at the *ceiling.*",
+  "#Start small. Even a little each week *counts.*",
+  "Put it somewhere separate. Somewhere you won't be *tempted.*",
+  "Don't touch it for wants. Only for real *emergencies.*",
+  "#Build it slowly. Build it *quietly.*",
+  "Treat it like a bill you pay to your future *self.*",
+  "Automatic. Non-negotiable. *Every* month.",
+  "And one day, life will throw something at you.",
+  "And you'll just handle it. *Calmly.*",
+  "That's what *real* security feels like."
+ ],
+ "end": [
+  "BUY YOUR",
+  "PEACE.",
+  "Save this and start your cushion this week."
+ ],
+ "cover": {
+  "lines": [
+   "BUILD A",
+   "SAFETY",
+   "CUSHION."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Most people are one bad day away",
+  "bg_time": 16
+ },
+ "post": {
+  "title": "Most People Are One Bad Day Away From Disaster",
+  "caption": "A safety cushion isn't exciting money. It's peace-of-mind money. 🛡️",
+  "hashtags": "#emergencyfund #moneymindset #personalfinance #savingmoney #financialfreedom",
+  "first_comment": "Do you have a safety cushion yet? Be honest 👇"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "theme": "gold",
+ "topic": "a budget is freedom",
+ "hook": [
+  "YOU HATE BUDGETS?",
+  "you've got it backwards"
+ ],
+ "lines": [
+  "#You hate *budgets.*",
+  "They feel like a *prison.*",
+  "Rules. Restrictions. No *fun.*",
+  "#But you've got it *backwards.*",
+  "#A budget isn't telling you what you *can't* do.",
+  "It's telling your money where to *go.*",
+  "Before it *disappears.*",
+  "#Without a plan, money just *leaks.*",
+  "And at the end of the month you're asking the same question.",
+  "Where did it all *go?*",
+  "#With a plan, you decide.",
+  "This much for bills. This much for *savings.*",
+  "This much for the things you *love*, guilt-free.",
+  "#That last part matters.",
+  "A good budget has room for *joy.*",
+  "It's not about never spending. It's about spending on *purpose.*",
+  "Sit down for ten minutes at the start of each *month.*",
+  "Write the plan. Then let the plan do the *worrying* for you.",
+  "That's it.",
+  "#People with budgets don't feel *poor.*",
+  "They feel in *control.*",
+  "#Give every dollar a job.",
+  "And watch how much *freedom* you suddenly have."
+ ],
+ "end": [
+  "A PLAN IS",
+  "FREEDOM.",
+  "Save this and plan next month tonight."
+ ],
+ "cover": {
+  "lines": [
+   "A BUDGET",
+   "IS",
+   "FREEDOM."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "You've got it backwards",
+  "bg_time": 18
+ },
+ "post": {
+  "title": "You Hate Budgets? You've Got It Backwards.",
+  "caption": "A budget isn't a prison. It's telling your money where to go. 💰",
+  "hashtags": "#budgeting #moneymindset #personalfinance #moneytips #financialfreedom",
+  "first_comment": "Do you have a budget? Be honest 👇"
+ }
+}

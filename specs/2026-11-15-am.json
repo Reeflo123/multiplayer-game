@@ -1,0 +1,55 @@
+{
+ "theme": "steel",
+ "topic": "control what you can control",
+ "hook": [
+  "STRESSED ABOUT EVERYTHING?",
+  "do this"
+ ],
+ "lines": [
+  "#Stressed about *everything?*",
+  "Grab a piece of paper. Draw a line down the *middle.*",
+  "#On one side, write what you can *control.*",
+  "On the other, what you *can't.*",
+  "#The economy. Other people's opinions. The *weather.* The past.",
+  "Can't control them.",
+  "#Your effort. Your *attitude.* Your habits. What you do *next.*",
+  "That's yours.",
+  "#Now look at where your energy has been *going.*",
+  "For most people, it's all on the wrong *side.*",
+  "Worrying about things they can't *change.*",
+  "Hours spent replaying conversations you can't *change.*",
+  "While ignoring the things they *can.*",
+  "#Starting today, flip it.",
+  "When something's outside your control, *acknowledge* it.",
+  "Then let it *go.*",
+  "And put everything you've got into the other *column.*",
+  "#You can't control the wind.",
+  "But you can *adjust* the sails.",
+  "Focus on your side of the line.",
+  "Watch how much *lighter* you feel.",
+  "And how much *stronger* you get."
+ ],
+ "end": [
+  "CONTROL THE",
+  "CONTROLLABLE.",
+  "Follow for your daily push at 7am & 7pm."
+ ],
+ "cover": {
+  "lines": [
+   "CONTROL",
+   "WHAT YOU",
+   "CAN."
+  ],
+  "accent_lines": [
+   2
+  ],
+  "sub": "Stressed about everything? Do this.",
+  "bg_time": 24
+ },
+ "post": {
+  "title": "Stressed About Everything? Do This.",
+  "caption": "You can't control the wind. But you can adjust the sails. ⛵",
+  "hashtags": "#stoicism #mindset #stressrelief #discipline #motivation",
+  "first_comment": "What's one thing you'll stop worrying about today? 👇"
+ }
+}

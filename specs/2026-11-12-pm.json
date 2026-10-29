@@ -1,0 +1,54 @@
+{
+ "theme": "dawn",
+ "topic": "the version of you nobody sees",
+ "hook": [
+  "THE VERSION OF YOU",
+  "nobody sees"
+ ],
+ "lines": [
+  "#There's a version of you nobody *sees.*",
+  "The one who gets up when it's still *dark.*",
+  "Who keeps going after everyone else has gone to *sleep.*",
+  "Who fights battles they never *talk* about.",
+  "#People see the *smile.*",
+  "They don't see the nights you almost *gave up.*",
+  "They see where you *are.*",
+  "They don't see what it *cost.*",
+  "#And sometimes that feels *lonely.*",
+  "Like nobody *understands.*",
+  "Like all that effort goes *unnoticed.*",
+  "#But it's not wasted.",
+  "That hidden version of you is the *foundation.*",
+  "Every quiet sacrifice is a brick in something *bigger.*",
+  "Buildings don't show their *foundations.*",
+  "But without them, nothing *stands.*",
+  "#So tonight, I see you.",
+  "The one doing the work *nobody* claps for.",
+  "Keep going.",
+  "One day, everyone will see the *building.*",
+  "#And you'll know exactly what it's *standing* on."
+ ],
+ "end": [
+  "I SEE",
+  "YOU.",
+  "Send this to someone who works in silence."
+ ],
+ "cover": {
+  "lines": [
+   "THE YOU",
+   "NOBODY",
+   "SEES."
+  ],
+  "accent_lines": [
+   1
+  ],
+  "sub": "Every quiet sacrifice counts",
+  "bg_time": 36
+ },
+ "post": {
+  "title": "The Version of You Nobody Sees",
+  "caption": "Every quiet sacrifice is a brick in something bigger. Keep going. 🌙",
+  "hashtags": "#motivation #hardwork #keepgoing #selfgrowth #mindset",
+  "first_comment": "Type 'I SEE YOU' for someone who needs it 👇"
+ }
+}
